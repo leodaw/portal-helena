@@ -1,23 +1,23 @@
-# Ateliê de Estudos da Helena
+# Ateliê de Estudos da Helena · RC5
 
-Portal estático. Refatoração estrutural da V7, sem mudanças intencionais de aparência ou funcionalidade.
+Portal educacional estático para as provas PD do 3º período de novembro de 2026.
 
-## Organização
-- `index.html`: marcação e carregamento de recursos
-- `css/`: estilos originais
-- `js/app.js`: navegação, aulas, simulados, progresso e voz
-- `data/matematica.js`, `data/ciencias.js`: conteúdo das duas disciplinas
-- `data/historia-geografia-portugues.js`: conteúdo das outras três disciplinas
-- `data/mentores.js`: imagens embutidas dos mentores
+## Abrir
+- `index.html`: abre a PD atual (`pd/index.html`).
+- `ad.html`: acervo AD de outubro (versão anterior), preservando sua navegação.
+- `pd/index.html`: Meu Plano, aulas, simulados, diagnóstico e FAQ.
 
-## Compatibilidade
-As chaves `helena_ans_v4`, `helena_done_v4`, `helena_submit_v4` foram preservadas. Não alterar sem migração.
+## Recursos
+- 6 matérias, 22 aulas em 91 seções, 120 questões em duas revisões por matéria.
+- Planejamento com calendário e progresso salvo localmente.
+- Consulta ao livro **somente por referência**, sem digitalizações.
+- Mentores e personagens já integrados à versão AD, com mensagens fictícias criadas para o portal.
+- Resultados dos simulados disponíveis por comparação manual com respostas de referência, **sem correção automática de texto livre**.
+
+## Dados locais
+O portal preserva as chaves de armazenamento das versões anteriores da PD. Use a função de backup no Meu Plano antes de migrar navegadores ou limpar o histórico.
 
 ## Publicação
-Hospedagem via GitHub Pages, branch `main`, pasta `/`. Todos os arquivos precisam ser enviados preservando os caminhos.
+Extraia o conteúdo deste pacote na raiz do GitHub Pages, preservando os caminhos. Não publicar o ZIP sem extrair nem incluir fontes digitalizadas dos livros.
 
-## Teste mínimo
-Abrir por servidor HTTP local (ex.: `python -m http.server 8000`), verificar as cinco disciplinas, revisões, simulados, leitura por voz e persistência após recarregar.
-
-
-**RC4:** consulte `RELEASE_PD_RC4.md`. O portal deixa de distribuir recortes dos livros e orienta a consultar os materiais originais.
+Consulte `RELEASE_PD_RC5.md` para os detalhes do backlog, testes e limitações.
