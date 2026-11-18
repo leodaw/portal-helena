@@ -21,3 +21,6 @@ O portal preserva as chaves de armazenamento das versões anteriores da PD. Use 
 Extraia o conteúdo deste pacote na raiz do GitHub Pages, preservando os caminhos. Não publicar o ZIP sem extrair nem incluir fontes digitalizadas dos livros.
 
 Consulte `RELEASE_PD_RC5.md` para os detalhes do backlog, testes e limitações.
+
+## RC8
+Missões com desenho + texto em 8 aulas. Consulte RELEASE_PD_RC8.md.
