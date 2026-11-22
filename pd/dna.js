@@ -17,32 +17,28 @@ function setTopic(i,value){diagData().topics[i]=value;save();render()}
 function setNote(value){diagData().note=value;save()}
 function diagnosticView(){let d=diagData(),c=PD_CONTENT[course];return title('Diagnóstico de dificuldades')+tabs()+`<article class="card"><h3>Questões da AD anterior</h3><p>Marque abaixo os números das questões em que Helena errou ou teve dificuldade. A marcação é manual, para não inventarmos erros que não foram confirmados. Em Inglês, não há prova AD disponível.</p>${course==='en'?'<p class="pd-mini">Sem prova AD de Inglês nesta remessa.</p>':`<div class="pd-toolbar">${Array.from({length:10},(_,i)=>`<label class="pd-badge"><input type="checkbox" ${d.errors.includes(i+1)?'checked':''} onchange="setError(${i+1},this.checked)"> Q${i+1}</label>`).join('')}</div>`}<p class="pd-mini">Questões assinaladas: ${d.errors.length}. O número sozinho não identifica a habilidade; registre abaixo o assunto em que houve dificuldade.</p></article><article class="card pd-card"><h3>Segurança por assunto da PD</h3><p>Escolha como está a confiança em cada assunto, mesmo que não tenha aparecido na AD.</p>${c.modules.map((m,i)=>`<div class="pd-diagnostic-topic"><b>${esc(m.title)}</b><select aria-label="Confiança em ${esc(m.title)}" onchange="setTopic(${i},this.value)"><option value="" ${!d.topics[i]?'selected':''}>Ainda não avaliado</option><option value="low" ${d.topics[i]==='low'?'selected':''}>Preciso estudar mais</option><option value="mid" ${d.topics[i]==='mid'?'selected':''}>Sei um pouco</option><option value="high" ${d.topics[i]==='high'?'selected':''}>Estou confiante</option></select></div>`).join('')}<label for="diag-note">Observações sobre erros, dúvidas ou comentários da professora</label><textarea class="pd-field" id="diag-note" oninput="setNote(this.value)" placeholder="Ex.: errou ao dividir frações; confundiu calor com temperatura...">${esc(d.note)}</textarea></article><article class="card pd-card"><h3>Como usar o diagnóstico</h3><p>Assuntos marcados como “Preciso estudar mais” aparecem primeiro no plano de estudos. A quantidade de erros da AD serve como alerta geral, não como nota nem diagnóstico automático.</p><button onclick="openScreen('plan')">Ver meu plano →</button></article>`}
 function planEntries(){
- const task=(id,type,task,code)=>({id,type,task,code});
+ const task=(id,type,task,code,period)=>({id,type,task,code,period});
  const schedule={
- 17:[task('por','Estudo','Leitura e interpretação + prefixos e sufixos. Aula e três exemplos próprios.','por-texto'),task('geo','Estudo','Cap. 5: formação das cidades, crescimento urbano e funções.','geo-cidades')],
- 18:[task('por','Estudo','Artigos definidos/indefinidos e gêneros dos substantivos; faça uma tabela com exemplos.','por-gramatica'),task('mat','Estudo','Leitura, comparação e representação de frações; exercícios do livro.','mat-fracoes')],
- 19:[task('por','Estudo','Homônimos e parônimos + leitura de novo texto curto.','por-palavras'),task('cie','Estudo','Cap. 11: calor, temperatura, condução e isolantes; desenhe o fluxo de calor.','cie-calor')],
- 20:[task('geo','Estudo','Cap. 6: trabalho formal/informal e setores de produção; analise um exemplo real.','geo-trabalho'),task('his','Estudo','Cap. 11: cidadania, democracia e Três Poderes; organize uma linha do tempo.','his-democracia')],
- 21:[task('por','Simulado','Revisão 1 de Português; confira as respostas-modelo e refaça os erros.','por-r1'),task('mat','Estudo','Adição, subtração, multiplicação e divisão de frações; resolva exercícios.','mat-operacoes')],
- 22:[task('por','Revisão final','Revisão 2 de Português + pontos difíceis. Sem maratona na véspera.','por-r2'),task('geo','Revisão breve','Releia mapa mental: cidades, metrópoles e trabalho.','geo-leve')],
- 23:[task('por','Prova','PD de Português. Respire, leia os comandos e revise sua escrita.','prova-por'),task('geo','Revisão final','Questões de Geografia + capítulos 5 e 6, com atenção ao diagnóstico.','geo-r2')],
- 24:[task('geo','Prova','PD de Geografia. Observe palavras-chave, mapas e dados.','prova-geo'),task('cie','Revisão final','Circuitos, energia e magnetismo; simulado de Ciências e correção.','cie-r2')],
- 25:[task('cie','Prova','PD de Ciências. Explique fenômenos com exemplos.','prova-cie'),task('his','Revisão final','Diretas Já, Constituição de 1988, democracia e culturas afro-brasileiras; simulado.','his-r2')],
- 26:[task('his','Prova','PD de História. Organize antes/depois e causa/consequência.','prova-his'),task('mat','Revisão final','Frações, decimais e problemas contextualizados; simulado de Matemática.','mat-r2')],
- 27:[task('mat','Prova','PD de Matemática. Mostre os cálculos com calma.','prova-mat'),task('en','Manutenção leve','Unit 6: Senses, vocabulário e frases. Inglês segue sem data de prova.','en-u6')],
- 28:[task('en','Manutenção leve','Unit 7: Natural World, should/shouldn’t; 20–25 minutos.','en-u7')],
- 29:[],
- 30:[task('en','Leitura leve','Interpretação de um texto curto + cinco frases em inglês. Aguarde nova data da escola.','en-reading')]
+  17:[task('por','Estudo','Leitura e interpretação + prefixos e sufixos. Aula e três exemplos próprios.','por-texto','Livre'),task('geo','Estudo','Cap. 5: formação das cidades, crescimento urbano e funções.','geo-cidades','Livre')],
+  18:[task('por','Estudo','Artigos, gêneros dos substantivos e exemplos.','por-gramatica','Livre'),task('mat','Estudo','Representação e comparação de frações.','mat-fracoes','Livre')],
+  19:[task('por','Revisão prioritária','Interpretação, homônimos/parônimos e simulado de Português.','por-palavras','Manhã'),task('geo','Revisão breve','Cidades, metrópoles e funções urbanas. Só se houver tempo.','geo-19-manha','Manhã')],
+  20:[],21:[],22:[],
+  23:[task('por','Revisão final','Português: leitura de enunciados e pontos difíceis, sem conteúdo novo. 20–30 min.','por-23-manha','Manhã'),task('por','Prova','Prova de Português na escola.','prova-por','Tarde'),task('geo','Preparação','Geografia: capítulos 5 e 6, questões e mapas. 40–60 min.','geo-r2','Noite')],
+  24:[task('geo','Revisão final','Geografia: mapa mental e conceitos-chave. 20–30 min.','geo-24-manha','Manhã'),task('geo','Prova','Prova de Geografia na escola.','prova-geo','Tarde'),task('cie','Preparação','Ciências: calor, energia, circuitos e magnetismo; questões. 40–60 min.','cie-r2','Noite')],
+  25:[task('cie','Revisão final','Ciências: conceitos e exemplos; 20–30 min.','cie-25-manha','Manhã'),task('cie','Prova','Prova de Ciências na escola.','prova-cie','Tarde'),task('his','Preparação','História: democracia, Constituição e cultura afro-brasileira; questões. 40–60 min.','his-r2','Noite')],
+  26:[task('his','Revisão final','História: linha do tempo, cidadania e causas/consequências. 20–30 min.','his-26-manha','Manhã'),task('his','Prova','Prova de História na escola.','prova-his','Tarde'),task('mat','Preparação','Matemática: frações, decimais e problemas; revisão guiada. 40–60 min.','mat-r2','Noite')],
+  27:[task('mat','Revisão final','Matemática: contas e estratégias de resolução. 20–30 min.','mat-27-manha','Manhã'),task('mat','Prova','Prova de Matemática na escola.','prova-mat','Tarde')],
+  28:[],29:[],30:[]
  };
  const entries=[];
  for(let day=16;day<=30;day++){
-  const date=new Date(2026,10,day), slots=(schedule[day]||[]).map(x=>({...x}));
-  if(day>=17){for(const slot of slots){
+  const date=new Date(2026,10,day),slots=(schedule[day]||[]).map(x=>({...x}));
+  if(day>=17)for(const slot of slots){
    if(slot.type==='Prova')continue;
    const difficulty=pd.diagnostic?.[slot.id]?.topics||{};
    const hard=Object.entries(difficulty).filter(([_,v])=>v==='low').map(([i])=>PD_CONTENT[slot.id]?.modules?.[Number(i)]?.title).filter(Boolean);
-   if(hard.length&&slot.type!=='Manutenção leve')slot.task+=' Reforce também: '+hard[0]+'.';
-  }}
+   if(hard.length&&slot.type!=='Revisão final')slot.task+=' Reforce também: '+hard[0]+'.';
+  }
   entries.push({day,date,slots});
  }
  return entries;
