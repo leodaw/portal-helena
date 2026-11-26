@@ -59,3 +59,5 @@
 @media(max-width:650px){.pd-sketch{padding:10px}.pd-sketch-tools button{padding:8px}.pd-sketch-sheet canvas{aspect-ratio:1000/650;height:280px}}
 
 .pd-period{display:inline-block;font-size:10px;letter-spacing:.02em;padding:2px 7px;margin-right:4px;border-radius:20px;background:#e9def6;color:#573b85;font-weight:750}.pd-study-task.is-exam .pd-period{background:#d8c7ec}
+
+.pd-review-selector{flex-wrap:wrap}.pd-review-selector button{flex:1 1 180px;min-width:150px}.pd-urgent{border:2px solid #c6b1e2;background:#fbf8ff}.pd-urgent h3{margin-top:0}.pd-lesson-section p{white-space:pre-line}

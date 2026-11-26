@@ -1,0 +1,38 @@
+{
+  "en": {
+    "originalModules": 3,
+    "originalQuestions": 20,
+    "modulesDigest": "c3f830263b8b17276d2cff437f0402f6e0f78878769b213171013c70df2e48d8",
+    "questionsDigest": "2ccecf38f6bdb7150a314bf9ded1060a4a04c87cf55db239f9188ee743730867"
+  },
+  "por": {
+    "originalModules": 4,
+    "originalQuestions": 20,
+    "modulesDigest": "225b20b54c3c7ccb68b8b183074d96ae75101659278d1a41757c800613bd89c4",
+    "questionsDigest": "f147b36312f3df845f1764a49b44210e23fcc8f35cb4c3e131e8cf4999d016a3"
+  },
+  "geo": {
+    "originalModules": 4,
+    "originalQuestions": 20,
+    "modulesDigest": "b0191778963f021a3624ee848bda91fd5978735c3397c69d3461b1a7307e485d",
+    "questionsDigest": "aaff84a638ed4c68b38ff88b29eae4240dc856566d77ee6c8896653c10aa06d9"
+  },
+  "cie": {
+    "originalModules": 4,
+    "originalQuestions": 20,
+    "modulesDigest": "7fec5f0597856fba6a7e4282805ca117740ddb29bbf2354f59107b49f4abd76f",
+    "questionsDigest": "4d10a34d1e53b022627dddc0d2aabbb5265b21c1ea74cb471b1b4bb83e95e13e"
+  },
+  "his": {
+    "originalModules": 3,
+    "originalQuestions": 20,
+    "modulesDigest": "b996210368ffe00bf457bf126683872493cb638a24dc8ef4a8dce6b0e2ddaeab",
+    "questionsDigest": "82792098c39569cfc0b8ecc62e8130c7f06758b9af839ba3dd52edd59d0ae05a"
+  },
+  "mat": {
+    "originalModules": 4,
+    "originalQuestions": 20,
+    "modulesDigest": "e46dabb2f95e7db81e193e45acee54ec6843b0afc378f6b2c5c7b4eb46d9c288",
+    "questionsDigest": "5d2bc3dceda4719e86f3012c5067bdde79d11c0aecdc1eb08de733a6a336723c"
+  }
+}

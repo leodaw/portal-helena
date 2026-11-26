@@ -1,0 +1,931 @@
+{
+  "version": "RC10",
+  "official_program": "ClassApp-a6d318cb9c44d0863f42284629992130.pdf · comunicado 15/26",
+  "policy": "Cada subtema tem explicação identificável, referência e ao menos uma questão do simulado complementar; auditoria não substitui avaliação humana das páginas escaneadas.",
+  "topics": [
+    {
+      "id": "his01",
+      "subject": "his",
+      "topic": "República e influências antigas",
+      "source": "Hist cap11.pdf · p. 138",
+      "module": 3,
+      "lesson_title": "República e influências antigas",
+      "question_id": "his01",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his02",
+      "subject": "his",
+      "topic": "Do Império à República brasileira",
+      "source": "Hist cap11.pdf · pp. 138–139",
+      "module": 3,
+      "lesson_title": "Do Império à República brasileira",
+      "question_id": "his02",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his03",
+      "subject": "his",
+      "topic": "Plebiscito e participação dos cidadãos",
+      "source": "Hist cap11.pdf · p. 139",
+      "module": 3,
+      "lesson_title": "Plebiscito e participação dos cidadãos",
+      "question_id": "his03",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his04",
+      "subject": "his",
+      "topic": "Ditadura militar e movimentos por democracia",
+      "source": "Hist cap11.pdf · p. 140",
+      "module": 3,
+      "lesson_title": "Ditadura militar e movimentos por democracia",
+      "question_id": "his04",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his05",
+      "subject": "his",
+      "topic": "Constituição Cidadã de 1988",
+      "source": "Hist cap11.pdf · p. 140",
+      "module": 3,
+      "lesson_title": "Constituição Cidadã de 1988",
+      "question_id": "his05",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his06",
+      "subject": "his",
+      "topic": "Voto obrigatório e facultativo",
+      "source": "Hist cap11.pdf · p. 140",
+      "module": 3,
+      "lesson_title": "Voto obrigatório e facultativo",
+      "question_id": "his06",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his07",
+      "subject": "his",
+      "topic": "Três Poderes e independência",
+      "source": "Hist cap11.pdf · pp. 142–143",
+      "module": 3,
+      "lesson_title": "Três Poderes e independência",
+      "question_id": "his07",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his08",
+      "subject": "his",
+      "topic": "Poderes no município, estado e União",
+      "source": "Hist cap11.pdf · pp. 142–143",
+      "module": 3,
+      "lesson_title": "Poderes no município, estado e União",
+      "question_id": "his08",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his09",
+      "subject": "his",
+      "topic": "Função do Judiciário",
+      "source": "Hist cap11.pdf · p. 143",
+      "module": 3,
+      "lesson_title": "Função do Judiciário",
+      "question_id": "his09",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his10",
+      "subject": "his",
+      "topic": "Cidadania como direitos e deveres",
+      "source": "Hist cap11.pdf · pp. 139–140",
+      "module": 3,
+      "lesson_title": "Cidadania como direitos e deveres",
+      "question_id": "his10",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his11",
+      "subject": "his",
+      "topic": "Origem diversa dos povos africanos",
+      "source": "Hist cap12.pdf · p. 152",
+      "module": 4,
+      "lesson_title": "Origem diversa dos povos africanos",
+      "question_id": "his11",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his12",
+      "subject": "his",
+      "topic": "Escravização, resistência e contribuições culturais",
+      "source": "Hist cap12.pdf · p. 152",
+      "module": 4,
+      "lesson_title": "Escravização, resistência e contribuições culturais",
+      "question_id": "his12",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his13",
+      "subject": "his",
+      "topic": "Maracatu e coroação dos reis do Congo",
+      "source": "Hist cap12.pdf · p. 153",
+      "module": 4,
+      "lesson_title": "Maracatu e coroação dos reis do Congo",
+      "question_id": "his13",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his14",
+      "subject": "his",
+      "topic": "Jongo e suas características",
+      "source": "Hist cap12.pdf · p. 153",
+      "module": 4,
+      "lesson_title": "Jongo e suas características",
+      "question_id": "his14",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his15",
+      "subject": "his",
+      "topic": "Comparação entre jongo e maracatu",
+      "source": "Hist cap12.pdf · p. 153",
+      "module": 4,
+      "lesson_title": "Comparação entre jongo e maracatu",
+      "question_id": "his15",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his16",
+      "subject": "his",
+      "topic": "Formação dos quilombos",
+      "source": "Hist cap12.pdf · p. 156",
+      "module": 4,
+      "lesson_title": "Formação dos quilombos",
+      "question_id": "his16",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his17",
+      "subject": "his",
+      "topic": "Quilombolas atuais e território",
+      "source": "Hist cap12.pdf · p. 156",
+      "module": 4,
+      "lesson_title": "Quilombolas atuais e território",
+      "question_id": "his17",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his18",
+      "subject": "his",
+      "topic": "Racismo e desigualdade",
+      "source": "Hist cap12.pdf · p. 157",
+      "module": 4,
+      "lesson_title": "Racismo e desigualdade",
+      "question_id": "his18",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his19",
+      "subject": "his",
+      "topic": "Políticas de cotas e igualdade de oportunidades",
+      "source": "Hist cap12.pdf · p. 157",
+      "module": 4,
+      "lesson_title": "Políticas de cotas e igualdade de oportunidades",
+      "question_id": "his19",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "his20",
+      "subject": "his",
+      "topic": "Consciência Negra e valorização cultural",
+      "source": "Hist cap12.pdf · p. 157",
+      "module": 4,
+      "lesson_title": "Consciência Negra e valorização cultural",
+      "question_id": "his20",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat01",
+      "subject": "mat",
+      "topic": "Leitura de frações usuais",
+      "source": "Mat livro pd 3p.pdf · pp. 235–236",
+      "module": 4,
+      "lesson_title": "Leitura de frações usuais",
+      "question_id": "mat01",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat02",
+      "subject": "mat",
+      "topic": "Frações de grupo de elementos",
+      "source": "Mat livro pd 3p.pdf · pp. 235–236",
+      "module": 4,
+      "lesson_title": "Frações de grupo de elementos",
+      "question_id": "mat02",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat03",
+      "subject": "mat",
+      "topic": "Comparação com mesmo denominador",
+      "source": "Mat livro pd 3p.pdf · pp. 252–253",
+      "module": 4,
+      "lesson_title": "Comparação com mesmo denominador",
+      "question_id": "mat03",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat04",
+      "subject": "mat",
+      "topic": "Comparação por equivalência",
+      "source": "Mat livro pd 3p.pdf · pp. 252–253",
+      "module": 4,
+      "lesson_title": "Comparação por equivalência",
+      "question_id": "mat04",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat05",
+      "subject": "mat",
+      "topic": "Adição com denominadores iguais",
+      "source": "Mat livro pd 3p.pdf · pp. 261–263",
+      "module": 4,
+      "lesson_title": "Adição com denominadores iguais",
+      "question_id": "mat05",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat06",
+      "subject": "mat",
+      "topic": "Adição com denominadores diferentes",
+      "source": "Mat livro pd 3p.pdf · pp. 261–263",
+      "module": 4,
+      "lesson_title": "Adição com denominadores diferentes",
+      "question_id": "mat06",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat07",
+      "subject": "mat",
+      "topic": "Subtração com denominadores iguais",
+      "source": "Mat livro pd 3p.pdf · pp. 267–268",
+      "module": 4,
+      "lesson_title": "Subtração com denominadores iguais",
+      "question_id": "mat07",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat08",
+      "subject": "mat",
+      "topic": "Subtração com denominadores diferentes",
+      "source": "Mat livro pd 3p.pdf · pp. 267–268",
+      "module": 4,
+      "lesson_title": "Subtração com denominadores diferentes",
+      "question_id": "mat08",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat09",
+      "subject": "mat",
+      "topic": "Multiplicação de frações",
+      "source": "Mat livro pd 3p.pdf · pp. 271–272",
+      "module": 4,
+      "lesson_title": "Multiplicação de frações",
+      "question_id": "mat09",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat10",
+      "subject": "mat",
+      "topic": "Divisão de frações",
+      "source": "Mat livro pd 3p.pdf · pp. 276–277",
+      "module": 4,
+      "lesson_title": "Divisão de frações",
+      "question_id": "mat10",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat11",
+      "subject": "mat",
+      "topic": "Frações decimais",
+      "source": "Mat livro pd 3p.pdf · pp. 291–292",
+      "module": 5,
+      "lesson_title": "Frações decimais",
+      "question_id": "mat11",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat12",
+      "subject": "mat",
+      "topic": "Décimos, centésimos e milésimos",
+      "source": "Mat livro pd 3p.pdf · pp. 293–296",
+      "module": 5,
+      "lesson_title": "Décimos, centésimos e milésimos",
+      "question_id": "mat12",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat13",
+      "subject": "mat",
+      "topic": "Quadro de valor posicional",
+      "source": "Mat livro pd 3p.pdf · pp. 293–296",
+      "module": 5,
+      "lesson_title": "Quadro de valor posicional",
+      "question_id": "mat13",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat14",
+      "subject": "mat",
+      "topic": "Representação decimal em malha",
+      "source": "Mat livro pd 3p.pdf · pp. 293–296",
+      "module": 5,
+      "lesson_title": "Representação decimal em malha",
+      "question_id": "mat14",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat15",
+      "subject": "mat",
+      "topic": "Transformar fração decimal em decimal",
+      "source": "Mat livro pd 3p.pdf · pp. 298–300",
+      "module": 5,
+      "lesson_title": "Transformar fração decimal em decimal",
+      "question_id": "mat15",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat16",
+      "subject": "mat",
+      "topic": "Transformar decimal em fração decimal",
+      "source": "Mat livro pd 3p.pdf · pp. 298–300",
+      "module": 5,
+      "lesson_title": "Transformar decimal em fração decimal",
+      "question_id": "mat16",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat17",
+      "subject": "mat",
+      "topic": "Números decimais equivalentes",
+      "source": "Mat livro pd 3p.pdf · pp. 298–300",
+      "module": 5,
+      "lesson_title": "Números decimais equivalentes",
+      "question_id": "mat17",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat18",
+      "subject": "mat",
+      "topic": "Adição decimal armada",
+      "source": "Mat livro pd 3p.pdf · pp. 306–308",
+      "module": 5,
+      "lesson_title": "Adição decimal armada",
+      "question_id": "mat18",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat19",
+      "subject": "mat",
+      "topic": "Subtração decimal armada",
+      "source": "Mat livro pd 3p.pdf · p. 310",
+      "module": 5,
+      "lesson_title": "Subtração decimal armada",
+      "question_id": "mat19",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "mat20",
+      "subject": "mat",
+      "topic": "Problema com dinheiro e troco",
+      "source": "Mat livro pd 3p.pdf · pp. 306–310",
+      "module": 5,
+      "lesson_title": "Problema com dinheiro e troco",
+      "question_id": "mat20",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en01",
+      "subject": "en",
+      "topic": "The five senses",
+      "source": "Ingles pd 3p livro PB.pdf · p. 54–55",
+      "module": 3,
+      "lesson_title": "The five senses",
+      "question_id": "en01",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en02",
+      "subject": "en",
+      "topic": "Look, sound and feel in questions",
+      "source": "Ingles pd 3p livro PB.pdf · pp. 54–55",
+      "module": 3,
+      "lesson_title": "Look, sound and feel in questions",
+      "question_id": "en02",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en03",
+      "subject": "en",
+      "topic": "Senses: opposite adjectives",
+      "source": "Ingles pd 3p livro PB.pdf · p. 55",
+      "module": 3,
+      "lesson_title": "Senses: opposite adjectives",
+      "question_id": "en03",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en04",
+      "subject": "en",
+      "topic": "Cooking ingredients and utensils",
+      "source": "Ingles pd 3p livro PB.pdf · pp. 56–57",
+      "module": 3,
+      "lesson_title": "Cooking ingredients and utensils",
+      "question_id": "en04",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en05",
+      "subject": "en",
+      "topic": "Recipe imperatives and order",
+      "source": "Ingles pd 3p livro PB.pdf · pp. 56–57",
+      "module": 3,
+      "lesson_title": "Recipe imperatives and order",
+      "question_id": "en05",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en06",
+      "subject": "en",
+      "topic": "Recipe reading comprehension",
+      "source": "Ingles pd 3p livro PB.pdf · pp. 56–57",
+      "module": 3,
+      "lesson_title": "Recipe reading comprehension",
+      "question_id": "en06",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en07",
+      "subject": "en",
+      "topic": "Past continuous (was/were + -ing)",
+      "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 6",
+      "module": 3,
+      "lesson_title": "Past continuous (was/were + -ing)",
+      "question_id": "en07",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en08",
+      "subject": "en",
+      "topic": "Made of: affirmative and negative",
+      "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 6",
+      "module": 3,
+      "lesson_title": "Made of: affirmative and negative",
+      "question_id": "en08",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en09",
+      "subject": "en",
+      "topic": "Made of: questions",
+      "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 6",
+      "module": 3,
+      "lesson_title": "Made of: questions",
+      "question_id": "en09",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en10",
+      "subject": "en",
+      "topic": "Present perfect: visited",
+      "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 6",
+      "module": 3,
+      "lesson_title": "Present perfect: visited",
+      "question_id": "en10",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en11",
+      "subject": "en",
+      "topic": "Nature and rubbish vocabulary",
+      "source": "Ingles pd 3p livro PB.pdf · pp. 64–65",
+      "module": 4,
+      "lesson_title": "Nature and rubbish vocabulary",
+      "question_id": "en11",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en12",
+      "subject": "en",
+      "topic": "Should and should not",
+      "source": "Ingles pd 3p livro PB.pdf · pp. 64–65",
+      "module": 4,
+      "lesson_title": "Should and should not",
+      "question_id": "en12",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en13",
+      "subject": "en",
+      "topic": "Reading environmental posts",
+      "source": "Ingles pd 3p livro PB.pdf · p. 65",
+      "module": 4,
+      "lesson_title": "Reading environmental posts",
+      "question_id": "en13",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en14",
+      "subject": "en",
+      "topic": "Endangered species",
+      "source": "Ingles pd 3p livro PB.pdf · pp. 66–67",
+      "module": 4,
+      "lesson_title": "Endangered species",
+      "question_id": "en14",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en15",
+      "subject": "en",
+      "topic": "Natural World: fact file",
+      "source": "Ingles pd 3p livro PB.pdf · pp. 66–67",
+      "module": 4,
+      "lesson_title": "Natural World: fact file",
+      "question_id": "en15",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en16",
+      "subject": "en",
+      "topic": "Animal descriptions and comparisons",
+      "source": "Ingles pd 3p livro PB.pdf · p. 67",
+      "module": 4,
+      "lesson_title": "Animal descriptions and comparisons",
+      "question_id": "en16",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en17",
+      "subject": "en",
+      "topic": "Present perfect for experience",
+      "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 7",
+      "module": 4,
+      "lesson_title": "Present perfect for experience",
+      "question_id": "en17",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en18",
+      "subject": "en",
+      "topic": "Present perfect yes/no questions",
+      "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 7",
+      "module": 4,
+      "lesson_title": "Present perfect yes/no questions",
+      "question_id": "en18",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en19",
+      "subject": "en",
+      "topic": "Environment actions and prevention",
+      "source": "Ingles pd 3p livro PB.pdf · p. 67",
+      "module": 4,
+      "lesson_title": "Environment actions and prevention",
+      "question_id": "en19",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "en20",
+      "subject": "en",
+      "topic": "Integrated reading and writing",
+      "source": "Ingles pd 3p livro PB.pdf · pp. 65–67, 87",
+      "module": 4,
+      "lesson_title": "Integrated reading and writing",
+      "question_id": "en20",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por01",
+      "subject": "por",
+      "topic": "Homônimos homófonos",
+      "source": "Port pd 3p ficha 18.pdf",
+      "module": 4,
+      "lesson_title": "Homônimos homófonos",
+      "question_id": "por01",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por02",
+      "subject": "por",
+      "topic": "Homônimos homógrafos",
+      "source": "Port pd 3p ficha 18.pdf",
+      "module": 4,
+      "lesson_title": "Homônimos homógrafos",
+      "question_id": "por02",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por03",
+      "subject": "por",
+      "topic": "Homônimos perfeitos",
+      "source": "Port pd 3p ficha 18.pdf",
+      "module": 4,
+      "lesson_title": "Homônimos perfeitos",
+      "question_id": "por03",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por04",
+      "subject": "por",
+      "topic": "Parônimos em contexto",
+      "source": "Port pd 3p ficha 18.pdf",
+      "module": 4,
+      "lesson_title": "Parônimos em contexto",
+      "question_id": "por04",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por05",
+      "subject": "por",
+      "topic": "Coesão: conectivos",
+      "source": "Port pd 3p ficha 17.pdf",
+      "module": 4,
+      "lesson_title": "Coesão: conectivos",
+      "question_id": "por05",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por06",
+      "subject": "por",
+      "topic": "Coerência e sequência do texto",
+      "source": "Port pd 3p ficha 17.pdf",
+      "module": 4,
+      "lesson_title": "Coerência e sequência do texto",
+      "question_id": "por06",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por07",
+      "subject": "por",
+      "topic": "Prefixo e mudança de sentido",
+      "source": "Port pd 3p ficha 17.pdf",
+      "module": 4,
+      "lesson_title": "Prefixo e mudança de sentido",
+      "question_id": "por07",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por08",
+      "subject": "por",
+      "topic": "Sufixo e formação",
+      "source": "Port pd 3p ficha 17.pdf",
+      "module": 4,
+      "lesson_title": "Sufixo e formação",
+      "question_id": "por08",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por09",
+      "subject": "por",
+      "topic": "Classes de substantivos por gênero",
+      "source": "Port pd 3p ficha 18.pdf",
+      "module": 4,
+      "lesson_title": "Classes de substantivos por gênero",
+      "question_id": "por09",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "por10",
+      "subject": "por",
+      "topic": "Artigos e interpretação de textos",
+      "source": "Port pd 3p ficha 17.pdf",
+      "module": 4,
+      "lesson_title": "Artigos e interpretação de textos",
+      "question_id": "por10",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie01",
+      "subject": "cie",
+      "topic": "Fogo e vida na Pré-História",
+      "source": "Ciencias cap11 e cap12.pdf · p. 163",
+      "module": 4,
+      "lesson_title": "Fogo e vida na Pré-História",
+      "question_id": "cie01",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie02",
+      "subject": "cie",
+      "topic": "Fontes de calor antigas e atuais",
+      "source": "Ciencias cap11 e cap12.pdf · pp. 150–163",
+      "module": 4,
+      "lesson_title": "Fontes de calor antigas e atuais",
+      "question_id": "cie02",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie03",
+      "subject": "cie",
+      "topic": "Mudanças de estado físico",
+      "source": "Ciencias cap11 e cap12.pdf · capítulo 11",
+      "module": 4,
+      "lesson_title": "Mudanças de estado físico",
+      "question_id": "cie03",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie04",
+      "subject": "cie",
+      "topic": "Geração hidrelétrica",
+      "source": "Ciencias cap11 e cap12.pdf · capítulo 12",
+      "module": 4,
+      "lesson_title": "Geração hidrelétrica",
+      "question_id": "cie04",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie05",
+      "subject": "cie",
+      "topic": "Energia eólica e solar",
+      "source": "Ciencias cap11 e cap12.pdf · capítulo 12",
+      "module": 4,
+      "lesson_title": "Energia eólica e solar",
+      "question_id": "cie05",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie06",
+      "subject": "cie",
+      "topic": "Termelétrica e combustíveis",
+      "source": "Ciencias cap11 e cap12.pdf · capítulo 12",
+      "module": 4,
+      "lesson_title": "Termelétrica e combustíveis",
+      "question_id": "cie06",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie07",
+      "subject": "cie",
+      "topic": "Renovável e não renovável",
+      "source": "Ciencias caderno pd 3p.pdf / Prepara adicional pd 3p.pdf",
+      "module": 4,
+      "lesson_title": "Renovável e não renovável",
+      "question_id": "cie07",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie08",
+      "subject": "cie",
+      "topic": "Impactos ambientais da geração elétrica",
+      "source": "Ciencias caderno pd 3p.pdf / Prepara adicional pd 3p.pdf",
+      "module": 4,
+      "lesson_title": "Impactos ambientais da geração elétrica",
+      "question_id": "cie08",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie09",
+      "subject": "cie",
+      "topic": "Economia e segurança elétrica",
+      "source": "Ciencias cap11 e cap12.pdf · pp. 164–177",
+      "module": 4,
+      "lesson_title": "Economia e segurança elétrica",
+      "question_id": "cie09",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "cie10",
+      "subject": "cie",
+      "topic": "Pilha, circuito e materiais condutores",
+      "source": "Ciencias cap11 e cap12.pdf · pp. 164–177",
+      "module": 4,
+      "lesson_title": "Pilha, circuito e materiais condutores",
+      "question_id": "cie10",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo01",
+      "subject": "geo",
+      "topic": "Hierarquia urbana",
+      "source": "Geo cap 5.pdf · pp. 70–77",
+      "module": 4,
+      "lesson_title": "Hierarquia urbana",
+      "question_id": "geo01",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo02",
+      "subject": "geo",
+      "topic": "Rede urbana e deslocamentos",
+      "source": "Geo cap 5.pdf · pp. 70–77",
+      "module": 4,
+      "lesson_title": "Rede urbana e deslocamentos",
+      "question_id": "geo02",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo03",
+      "subject": "geo",
+      "topic": "Problemas ambientais nas cidades",
+      "source": "Geo cap 5.pdf · pp. 70–77",
+      "module": 4,
+      "lesson_title": "Problemas ambientais nas cidades",
+      "question_id": "geo03",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo04",
+      "subject": "geo",
+      "topic": "Serviços públicos e participação",
+      "source": "Geo cap 5.pdf · pp. 70–77",
+      "module": 4,
+      "lesson_title": "Serviços públicos e participação",
+      "question_id": "geo04",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo05",
+      "subject": "geo",
+      "topic": "Extrativismo animal, vegetal e mineral",
+      "source": "Geo cap 6.pdf · pp. 84–91",
+      "module": 4,
+      "lesson_title": "Extrativismo animal, vegetal e mineral",
+      "question_id": "geo05",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo06",
+      "subject": "geo",
+      "topic": "Setores econômicos e trabalho",
+      "source": "Geo cap 6.pdf · pp. 84–91",
+      "module": 4,
+      "lesson_title": "Setores econômicos e trabalho",
+      "question_id": "geo06",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo07",
+      "subject": "geo",
+      "topic": "Energia nas atividades econômicas",
+      "source": "Geo cap 6.pdf · p. 91",
+      "module": 4,
+      "lesson_title": "Energia nas atividades econômicas",
+      "question_id": "geo07",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo08",
+      "subject": "geo",
+      "topic": "Trabalho e transformação tecnológica",
+      "source": "Geo cap 6.pdf · pp. 84–91",
+      "module": 4,
+      "lesson_title": "Trabalho e transformação tecnológica",
+      "question_id": "geo08",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo09",
+      "subject": "geo",
+      "topic": "Trabalho formal e informal",
+      "source": "Geo cap 6.pdf · pp. 84–91",
+      "module": 4,
+      "lesson_title": "Trabalho formal e informal",
+      "question_id": "geo09",
+      "coverage": "explained-and-assessed"
+    },
+    {
+      "id": "geo10",
+      "subject": "geo",
+      "topic": "Leitura de mapas econômicos",
+      "source": "Geo cap 6.pdf · pp. 84–91",
+      "module": 4,
+      "lesson_title": "Leitura de mapas econômicos",
+      "question_id": "geo10",
+      "coverage": "explained-and-assessed"
+    }
+  ],
+  "incidents": [
+    {
+      "id": "INC-2026-11-23-POR-01",
+      "date": "2026-11-23",
+      "subject": "Português",
+      "status": "relato da estudante; aguarda prova original",
+      "reported": "Na prova foi cobrado homônimos homófonos e Helena relata que não havia estudado adequadamente.",
+      "school_source": "Port pd 3p ficha 18.pdf",
+      "portal_rc9_gap": "A classificação de homônimos homófonos/homógrafos/perfeitos não foi ensinada e testada de modo específico.",
+      "repair": "RC10: tópico por01, explicação específica e questão no simulado complementar.",
+      "pending": "Conferir enunciado, gabarito e resposta da Helena quando a prova for entregue."
+    },
+    {
+      "id": "INC-2026-11-25-CIE-01",
+      "date": "2026-11-25",
+      "subject": "Ciências",
+      "status": "relato da estudante; aguarda prova original",
+      "reported": "A prova tratou da descoberta/domínio do fogo, dos usos antigos e benefícios para as pessoas.",
+      "school_source": "Ciencias cap11 e cap12.pdf, livro p. 163: atividades sobre fonte de luz e calor na Pré-História.",
+      "portal_rc9_gap": "Não havia explicação e questão direta sobre o uso histórico do fogo.",
+      "repair": "RC10: tópico cie01, explicação histórica e questão no simulado complementar.",
+      "pending": "Conferir enunciado, gabarito e resposta da Helena quando a prova for entregue."
+    }
+  ]
+}

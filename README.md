@@ -24,3 +24,7 @@ Consulte `RELEASE_PD_RC5.md` para os detalhes do backlog, testes e limitações.
 
 ## RC8
 Missões com desenho + texto em 8 aulas. Consulte RELEASE_PD_RC8.md.
+
+RC10: Leia RELEASE_PD_RC10.md, LESSONS_LEARNED_RC10.md e execute scripts/qa_rc10.py antes da publicação.
+
+RC10: Leia RELEASE_PD_RC10.md, LESSONS_LEARNED_RC10.md e execute scripts/qa_rc10.py antes da publicação.
