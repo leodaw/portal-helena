@@ -1,0 +1,2007 @@
+{
+  "version": "RC11",
+  "method": "Gabaritos autorais, metadados de referência dos módulos e critérios locais. Não são os PDFs completos.",
+  "subjects": {
+    "en": [
+      {
+        "id": "en:q1",
+        "module": 0,
+        "prompt": "Where is Maya, and what does she hear? Answer in English.",
+        "expected": "She is at her grandmother’s house. She hears a bird singing.",
+        "source": "Livro de Inglês, PB e AB · Unit 6 · Senses, páginas 54–57; atividade 6 da página 87",
+        "coverageId": null,
+        "kind": "Leitura e localização"
+      },
+      {
+        "id": "en:q2",
+        "module": 0,
+        "prompt": "Observe as pistas. Complete in English: “The lemon ___ sour, but the flower ___ sweet.”",
+        "expected": "The lemon tastes sour, but the flower smells sweet.",
+        "source": "Livro de Inglês, PB e AB · Unit 6 · Senses, páginas 54–57; atividade 6 da página 87",
+        "coverageId": null,
+        "kind": "Complete com pistas"
+      },
+      {
+        "id": "en:q3",
+        "module": 0,
+        "prompt": "Look at the pictures described in the cards. Write one sentence using feels and one using sounds.",
+        "expected": "The pillow feels soft. The bell sounds loud.",
+        "source": "Livro de Inglês, PB e AB · Unit 6 · Senses, páginas 54–57; atividade 6 da página 87",
+        "coverageId": null,
+        "kind": "Imagem e escrita"
+      },
+      {
+        "id": "en:q4",
+        "module": 0,
+        "prompt": "Complete the dialogue using an appropriate question and answer about a strawberry. Use the verb taste.",
+        "expected": "How does the strawberry taste? It tastes sweet.",
+        "source": "Livro de Inglês, PB e AB · Unit 6 · Senses, páginas 54–57; atividade 6 da página 87",
+        "coverageId": null,
+        "kind": "Diálogo"
+      },
+      {
+        "id": "en:q5",
+        "module": 1,
+        "prompt": "What problem did the children find at the river? Write a full sentence in English.",
+        "expected": "They found plastic bottles and rubbish near the river.",
+        "source": "Livro de Inglês, PB e AB · Unit 7 · Natural World, páginas 64–67; atividade 7 da página 87",
+        "coverageId": null,
+        "kind": "Interpretação de texto"
+      },
+      {
+        "id": "en:q6",
+        "module": 1,
+        "prompt": "A visitor wants to throw a plastic bag on the beach. Write advice with shouldn’t and a reason.",
+        "expected": "The visitor shouldn’t throw plastic on the beach because it can hurt animals.",
+        "source": "Livro de Inglês, PB e AB · Unit 7 · Natural World, páginas 64–67; atividade 7 da página 87",
+        "coverageId": null,
+        "kind": "Situação-problema"
+      },
+      {
+        "id": "en:q7",
+        "module": 1,
+        "prompt": "Complete with should or shouldn’t: “We ___ save water. We ___ leave rubbish in forests.”",
+        "expected": "We should save water. We shouldn’t leave rubbish in forests.",
+        "source": "Livro de Inglês, PB e AB · Unit 7 · Natural World, páginas 64–67; atividade 7 da página 87",
+        "coverageId": null,
+        "kind": "Gramática no contexto"
+      },
+      {
+        "id": "en:q8",
+        "module": 1,
+        "prompt": "Match each natural place to the clue and write two complete sentences: forest, river, ocean.",
+        "expected": "A forest has many trees. An ocean contains salt water. A river is flowing water.",
+        "source": "Livro de Inglês, PB e AB · Unit 7 · Natural World, páginas 64–67; atividade 7 da página 87",
+        "coverageId": null,
+        "kind": "Associação e escrita"
+      },
+      {
+        "id": "en:q9",
+        "module": 2,
+        "prompt": "Why does Noah take a raincoat? Use a clue from the text.",
+        "expected": "Because the sky is dark and it looks like it will rain.",
+        "source": "Livro de Inglês e ficha 29 · Textos das Units 6 e 7 e ficha 29",
+        "coverageId": null,
+        "kind": "Inferência"
+      },
+      {
+        "id": "en:q10",
+        "module": 2,
+        "prompt": "In the sentence “They pick it up”, what does it refer to? Answer in English.",
+        "expected": "It refers to the bottle.",
+        "source": "Livro de Inglês e ficha 29 · Textos das Units 6 e 7 e ficha 29",
+        "coverageId": null,
+        "kind": "Referência textual"
+      },
+      {
+        "id": "en:q11",
+        "module": 2,
+        "prompt": "Read the notice. What two rules should visitors follow? Write in English.",
+        "expected": "Visitors should stay on the path and should not feed animals.",
+        "source": "Livro de Inglês e ficha 29 · Textos das Units 6 e 7 e ficha 29",
+        "coverageId": null,
+        "kind": "Leitura de aviso"
+      },
+      {
+        "id": "en:q12",
+        "module": 0,
+        "prompt": "Read the dialogue. How does the soup smell, and why does Jo not taste it yet?",
+        "expected": "The soup smells delicious, but it is very hot.",
+        "source": "Livro de Inglês, PB e AB · Unit 6 · Senses, páginas 54–57; atividade 6 da página 87",
+        "coverageId": null,
+        "kind": "Interpretação de diálogo"
+      },
+      {
+        "id": "en:q13",
+        "module": 0,
+        "prompt": "Choose the correct sensory verb and write each sentence: “The drums ___ loud.” “This scarf ___ soft.”",
+        "expected": "The drums sound loud. This scarf feels soft.",
+        "source": "Livro de Inglês, PB e AB · Unit 6 · Senses, páginas 54–57; atividade 6 da página 87",
+        "coverageId": null,
+        "kind": "Complete a tabela"
+      },
+      {
+        "id": "en:q14",
+        "module": 0,
+        "prompt": "Write a short exchange with one question beginning “How does …?” and an answer about a mango.",
+        "expected": "How does the mango taste? It tastes sweet.",
+        "source": "Livro de Inglês, PB e AB · Unit 6 · Senses, páginas 54–57; atividade 6 da página 87",
+        "coverageId": null,
+        "kind": "Produção de diálogo"
+      },
+      {
+        "id": "en:q15",
+        "module": 1,
+        "prompt": "Read the short story. What did Mia do to protect the beach? Answer in English.",
+        "expected": "She collected the rubbish with an adult and put it in a bin.",
+        "source": "Livro de Inglês, PB e AB · Unit 7 · Natural World, páginas 64–67; atividade 7 da página 87",
+        "coverageId": null,
+        "kind": "Narrativa e ação"
+      },
+      {
+        "id": "en:q16",
+        "module": 1,
+        "prompt": "Create two classroom rules about caring for nature: one with should and one with shouldn’t.",
+        "expected": "We should recycle paper. We shouldn’t waste water.",
+        "source": "Livro de Inglês, PB e AB · Unit 7 · Natural World, páginas 64–67; atividade 7 da página 87",
+        "coverageId": null,
+        "kind": "Escrita orientada"
+      },
+      {
+        "id": "en:q17",
+        "module": 1,
+        "prompt": "Explain in English why plastic in the ocean can be dangerous for turtles. Use because.",
+        "expected": "Plastic can be dangerous because turtles may eat it or get trapped in it.",
+        "source": "Livro de Inglês, PB e AB · Unit 7 · Natural World, páginas 64–67; atividade 7 da página 87",
+        "coverageId": null,
+        "kind": "Causa e consequência"
+      },
+      {
+        "id": "en:q18",
+        "module": 2,
+        "prompt": "Read the message. Where is the class going, and what should each student bring?",
+        "expected": "They are going to a forest park. Each student should bring a water bottle.",
+        "source": "Livro de Inglês e ficha 29 · Textos das Units 6 e 7 e ficha 29",
+        "coverageId": null,
+        "kind": "Leitura funcional"
+      },
+      {
+        "id": "en:q19",
+        "module": 2,
+        "prompt": "Read the notice and explain: Which action is allowed and which action is not allowed?",
+        "expected": "Visitors can watch the butterflies but should not touch them.",
+        "source": "Livro de Inglês e ficha 29 · Textos das Units 6 e 7 e ficha 29",
+        "coverageId": null,
+        "kind": "Interpretação de regras"
+      },
+      {
+        "id": "en:q20",
+        "module": 2,
+        "prompt": "Write three sentences for an original “Protect Nature!” poster: one with should, one with shouldn’t and one describing a natural place.",
+        "expected": "We should protect rivers. We shouldn’t throw rubbish in forests. The ocean is home to many animals.",
+        "source": "Livro de Inglês e ficha 29 · Textos das Units 6 e 7 e ficha 29",
+        "coverageId": null,
+        "kind": "Produção com orientações"
+      },
+      {
+        "id": "en:q21",
+        "module": 3,
+        "prompt": "Write three sentences: one with hear, one with smell, and one with feel.",
+        "expected": "Examples: I hear music. I smell pizza. I feel a soft pillow.",
+        "source": "Ingles pd 3p livro PB.pdf · p. 54–55",
+        "coverageId": "en01",
+        "kind": "Conferência curricular · The five senses"
+      },
+      {
+        "id": "en:q22",
+        "module": 3,
+        "prompt": "Complete: What ___ it sound like? It ___ like a bird.",
+        "expected": "does; sounds. Esta é a resposta esperada, conforme o conceito estudado.",
+        "source": "Ingles pd 3p livro PB.pdf · pp. 54–55",
+        "coverageId": "en02",
+        "kind": "Conferência curricular · Look, sound and feel in questions"
+      },
+      {
+        "id": "en:q23",
+        "module": 3,
+        "prompt": "A stone feels rough, but a pillow feels ___. A lemon tastes ___, but honey tastes ___.",
+        "expected": "soft; sour; sweet.",
+        "source": "Ingles pd 3p livro PB.pdf · p. 55",
+        "coverageId": "en03",
+        "kind": "Conferência curricular · Senses: opposite adjectives"
+      },
+      {
+        "id": "en:q24",
+        "module": 3,
+        "prompt": "In a pizza recipe, classify cheese, flour, bowl and spoon as ingredients or utensils.",
+        "expected": "Ingredients: cheese and flour. Utensils: bowl and spoon.",
+        "source": "Ingles pd 3p livro PB.pdf · pp. 56–57",
+        "coverageId": "en04",
+        "kind": "Conferência curricular · Cooking ingredients and utensils"
+      },
+      {
+        "id": "en:q25",
+        "module": 3,
+        "prompt": "Put in a reasonable order: Bake the pizza / Mix the ingredients / Put the toppings on the dough.",
+        "expected": "Mix the ingredients → Put the toppings on the dough → Bake the pizza.",
+        "source": "Ingles pd 3p livro PB.pdf · pp. 56–57",
+        "coverageId": "en05",
+        "kind": "Conferência curricular · Recipe imperatives and order"
+      },
+      {
+        "id": "en:q26",
+        "module": 3,
+        "prompt": "Recipe: “Mix flour and water. Add cheese and tomato. Bake for 15 minutes.” Name two ingredients and the baking time.",
+        "expected": "Flour and water (or cheese/tomato); 15 minutes.",
+        "source": "Ingles pd 3p livro PB.pdf · pp. 56–57",
+        "coverageId": "en06",
+        "kind": "Conferência curricular · Recipe reading comprehension"
+      },
+      {
+        "id": "en:q27",
+        "module": 3,
+        "prompt": "Transform “She cooks the dinner” em uma ação que estava acontecendo no passado (past continuous). Depois escreva a forma negativa e a pergunta.",
+        "expected": "She was cooking the dinner. She was not cooking the dinner. Was she cooking the dinner?",
+        "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 6",
+        "coverageId": "en07",
+        "kind": "Conferência curricular · Present continuous"
+      },
+      {
+        "id": "en:q28",
+        "module": 3,
+        "prompt": "Write an affirmative sentence about a wooden chair and a negative sentence about a metal bottle being made of glass.",
+        "expected": "The chair is made of wood. The metal bottle is not made of glass.",
+        "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 6",
+        "coverageId": "en08",
+        "kind": "Conferência curricular · Made of: affirmative and negative"
+      },
+      {
+        "id": "en:q29",
+        "module": 3,
+        "prompt": "Turn “It is made of paper” into a yes/no question and answer yes.",
+        "expected": "Is it made of paper? Yes, it is.",
+        "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 6",
+        "coverageId": "en09",
+        "kind": "Conferência curricular · Made of: questions"
+      },
+      {
+        "id": "en:q30",
+        "module": 3,
+        "prompt": "Make this negative and a question: “She has visited London.”",
+        "expected": "She has not visited London. Has she visited London?",
+        "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 6",
+        "coverageId": "en10",
+        "kind": "Conferência curricular · Present perfect: visited"
+      },
+      {
+        "id": "en:q31",
+        "module": 4,
+        "prompt": "Translate into English: rio, floresta, lixo e habitat. Then write one sentence with rubbish.",
+        "expected": "river; forest; rubbish/trash; habitat. Example: We should pick up rubbish.",
+        "source": "Ingles pd 3p livro PB.pdf · pp. 64–65",
+        "coverageId": "en11",
+        "kind": "Conferência curricular · Nature and rubbish vocabulary"
+      },
+      {
+        "id": "en:q32",
+        "module": 4,
+        "prompt": "Complete with should/should not: We ___ protect rivers. We ___ leave rubbish on the beach.",
+        "expected": "should; should not.",
+        "source": "Ingles pd 3p livro PB.pdf · pp. 64–65",
+        "coverageId": "en12",
+        "kind": "Conferência curricular · Should and should not"
+      },
+      {
+        "id": "en:q33",
+        "module": 4,
+        "prompt": "Post: “Our park is dirty. We should clean it and recycle.” What is the problem? Give two pieces of advice from the post.",
+        "expected": "The park is dirty. Clean the park and recycle.",
+        "source": "Ingles pd 3p livro PB.pdf · p. 65",
+        "coverageId": "en13",
+        "kind": "Conferência curricular · Reading environmental posts"
+      },
+      {
+        "id": "en:q34",
+        "module": 4,
+        "prompt": "What does endangered mean? Name two things people can do to help endangered animals.",
+        "expected": "At risk of extinction. Protect habitats and reduce pollution (or stop illegal hunting).",
+        "source": "Ingles pd 3p livro PB.pdf · pp. 66–67",
+        "coverageId": "en14",
+        "kind": "Conferência curricular · Endangered species"
+      },
+      {
+        "id": "en:q35",
+        "module": 4,
+        "prompt": "An animal fact file says: “The Siberian tiger lives in Asia and eats meat.” What animal is described, where does it live, and what does it eat?",
+        "expected": "The Siberian tiger. It lives in Asia and eats meat.",
+        "source": "Ingles pd 3p livro PB.pdf · pp. 66–67",
+        "coverageId": "en15",
+        "kind": "Conferência curricular · Natural World: fact file"
+      },
+      {
+        "id": "en:q36",
+        "module": 4,
+        "prompt": "Write a comparative sentence using: the jaguar / fast / the turtle.",
+        "expected": "The jaguar is faster than the turtle.",
+        "source": "Ingles pd 3p livro PB.pdf · p. 67",
+        "coverageId": "en16",
+        "kind": "Conferência curricular · Animal descriptions and comparisons"
+      },
+      {
+        "id": "en:q37",
+        "module": 4,
+        "prompt": "Choose: “She has (see / seen) a butterfly.” Then make the sentence negative.",
+        "expected": "She has seen a butterfly. She has not seen a butterfly.",
+        "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 7",
+        "coverageId": "en17",
+        "kind": "Conferência curricular · Present perfect for experience"
+      },
+      {
+        "id": "en:q38",
+        "module": 4,
+        "prompt": "Transform “He has visited a forest” em pergunta usando ever para falar de uma experiência. Depois responda negativamente.",
+        "expected": "Has he ever visited a forest? No, he has not.",
+        "source": "Ingles pd 3p livro PB.pdf · p. 87, exercício 7",
+        "coverageId": "en18",
+        "kind": "Conferência curricular · Present perfect yes/no questions"
+      },
+      {
+        "id": "en:q39",
+        "module": 4,
+        "prompt": "Write two things a child should do and one thing a child should not do to protect nature.",
+        "expected": "Examples: We should recycle. We should plant trees. We should not litter.",
+        "source": "Ingles pd 3p livro PB.pdf · p. 67",
+        "coverageId": "en19",
+        "kind": "Conferência curricular · Environment actions and prevention"
+      },
+      {
+        "id": "en:q40",
+        "module": 4,
+        "prompt": "Text: “Anna has visited a nature park. She saw rubbish near the river.” What has Anna visited? What should people do? Answer in English.",
+        "expected": "Anna has visited a nature park. People should pick up rubbish and protect the river.",
+        "source": "Ingles pd 3p livro PB.pdf · pp. 65–67, 87",
+        "coverageId": "en20",
+        "kind": "Conferência curricular · Integrated reading and writing"
+      }
+    ],
+    "por": [
+      {
+        "id": "por:q1",
+        "module": 0,
+        "prompt": "Onde Luiza encontrou o bilhete? Responda com informação explícita do texto.",
+        "expected": "Ela encontrou o bilhete dentro de um livro emprestado da biblioteca.",
+        "source": "Livro de Português, fichas e caderno · Interpretação de textos; fichas da PD",
+        "coverageId": null,
+        "kind": "Leitura e localização"
+      },
+      {
+        "id": "por:q2",
+        "module": 0,
+        "prompt": "Por que Luiza decidiu conversar com a avó? Explique a pista do texto.",
+        "expected": "Porque o bilhete a fez pensar em histórias vividas e contadas pelas pessoas; ela queria conhecer memórias da avó.",
+        "source": "Livro de Português, fichas e caderno · Interpretação de textos; fichas da PD",
+        "coverageId": null,
+        "kind": "Inferência"
+      },
+      {
+        "id": "por:q3",
+        "module": 0,
+        "prompt": "O trecho apresenta apenas um fato ou também uma reflexão? Justifique usando a frase do bilhete.",
+        "expected": "Apresenta fatos e uma reflexão: “As histórias também moram nas pessoas” sugere que experiências e memórias também contam histórias.",
+        "source": "Livro de Português, fichas e caderno · Interpretação de textos; fichas da PD",
+        "coverageId": null,
+        "kind": "Interpretação de sentido"
+      },
+      {
+        "id": "por:q4",
+        "module": 1,
+        "prompt": "Leia as duas frases. Identifique os artigos e explique o que muda quando a personagem já foi apresentada.",
+        "expected": "Uma é artigo indefinido e apresenta a menina; a é artigo definido e retoma a menina conhecida do leitor.",
+        "source": "Livro de Português e ficha 17 · Atividades de prefixos, sufixos e artigos; ficha 17",
+        "coverageId": null,
+        "kind": "Gramática no texto"
+      },
+      {
+        "id": "por:q5",
+        "module": 1,
+        "prompt": "Complete a tabela formando duas palavras com prefixo e duas com sufixo. Depois explique o sentido de uma delas.",
+        "expected": "Exemplos: refazer (re-), infeliz (in-), bondade (-dade), cuidadoso (-oso). Refazer significa fazer novamente.",
+        "source": "Livro de Português e ficha 17 · Atividades de prefixos, sufixos e artigos; ficha 17",
+        "coverageId": null,
+        "kind": "Tabela linguística"
+      },
+      {
+        "id": "por:q6",
+        "module": 2,
+        "prompt": "Classifique os substantivos destacados na tabela em comum de dois gêneros, sobrecomum ou epiceno. Justifique um deles.",
+        "expected": "Artista: comum de dois gêneros; criança: sobrecomum; jacaré: epiceno. Ex.: artista aceita o/a.",
+        "source": "Livro de Português e ficha 18 · Atividades sobre gênero dos substantivos; ficha 18",
+        "coverageId": null,
+        "kind": "Classificação e justificativa"
+      },
+      {
+        "id": "por:q7",
+        "module": 3,
+        "prompt": "Complete corretamente a frase com descrição ou discrição e explique a escolha.",
+        "expected": "Descrição, pois significa apresentação das características do objeto.",
+        "source": "Livro de Português e ficha 18 · Atividades de homônimos e parônimos; ficha 18",
+        "coverageId": null,
+        "kind": "Homônimos e parônimos"
+      },
+      {
+        "id": "por:q8",
+        "module": 3,
+        "prompt": "Crie duas frases para mostrar a diferença entre cumprimento e comprimento.",
+        "expected": "Ex.: Meu cumprimento foi educado. O comprimento da mesa é de dois metros.",
+        "source": "Livro de Português e ficha 18 · Atividades de homônimos e parônimos; ficha 18",
+        "coverageId": null,
+        "kind": "Produção contextualizada"
+      },
+      {
+        "id": "por:q9",
+        "module": 0,
+        "prompt": "Na tirinha descrita, por que o último quadro produz humor? Justifique.",
+        "expected": "Porque a personagem interpreta “dar uma mão” literalmente, quando o amigo queria ajuda.",
+        "source": "Livro de Português, fichas e caderno · Interpretação de textos; fichas da PD",
+        "coverageId": null,
+        "kind": "Linguagem e humor"
+      },
+      {
+        "id": "por:q10",
+        "module": 1,
+        "prompt": "Troque o artigo indefinido por definido e explique a mudança: “Um cachorro esperava na porta.”",
+        "expected": "O cachorro esperava na porta. Passa a indicar um cachorro específico, já conhecido no contexto.",
+        "source": "Livro de Português e ficha 17 · Atividades de prefixos, sufixos e artigos; ficha 17",
+        "coverageId": null,
+        "kind": "Transformação de frase"
+      },
+      {
+        "id": "por:q11",
+        "module": 0,
+        "prompt": "Que informação do texto permite concluir que a viagem foi adiada?",
+        "expected": "A estrada estava alagada e a família resolveu sair no dia seguinte.",
+        "source": "Livro de Português, fichas e caderno · Interpretação de textos; fichas da PD",
+        "coverageId": null,
+        "kind": "Inferência apoiada em pistas"
+      },
+      {
+        "id": "por:q12",
+        "module": 0,
+        "prompt": "Reescreva com suas palavras a ideia central do aviso, sem copiar a frase inteira.",
+        "expected": "Pede que as pessoas devolvam os livros após a leitura para que outras também possam utilizá-los.",
+        "source": "Livro de Português, fichas e caderno · Interpretação de textos; fichas da PD",
+        "coverageId": null,
+        "kind": "Interpretação de aviso"
+      },
+      {
+        "id": "por:q13",
+        "module": 1,
+        "prompt": "Em “Uma vizinha encontrou um gato. O gato parecia assustado”, explique por que o segundo artigo é definido.",
+        "expected": "Porque o gato já havia sido apresentado ao leitor, tornando-se um referente específico.",
+        "source": "Livro de Português e ficha 17 · Atividades de prefixos, sufixos e artigos; ficha 17",
+        "coverageId": null,
+        "kind": "Coesão e artigos"
+      },
+      {
+        "id": "por:q14",
+        "module": 1,
+        "prompt": "Observe as palavras e identifique o prefixo ou sufixo em cada uma. Explique uma alteração de sentido.",
+        "expected": "reler: prefixo re- (ler outra vez); infeliz: prefixo in- (negação); florista: sufixo -ista (ocupação); amizade: sufixo -dade (qualidade ou estado).",
+        "source": "Livro de Português e ficha 17 · Atividades de prefixos, sufixos e artigos; ficha 17",
+        "coverageId": null,
+        "kind": "Análise de palavras"
+      },
+      {
+        "id": "por:q15",
+        "module": 2,
+        "prompt": "A professora escreveu “a jornalista” e “o jornalista”. Que classificação cabe a jornalista? Por quê?",
+        "expected": "Comum de dois gêneros, porque a palavra mantém a forma e varia o artigo.",
+        "source": "Livro de Português e ficha 18 · Atividades sobre gênero dos substantivos; ficha 18",
+        "coverageId": null,
+        "kind": "Classificação contextualizada"
+      },
+      {
+        "id": "por:q16",
+        "module": 2,
+        "prompt": "Um texto fala de “uma vítima” que é um homem. O substantivo muda para “o vítima”? Explique.",
+        "expected": "Não. Vítima é substantivo sobrecomum, de gênero gramatical feminino, independentemente da pessoa a que se refere.",
+        "source": "Livro de Português e ficha 18 · Atividades sobre gênero dos substantivos; ficha 18",
+        "coverageId": null,
+        "kind": "Aplicação e explicação"
+      },
+      {
+        "id": "por:q17",
+        "module": 2,
+        "prompt": "No relato “A onça macho foi observada à distância”, explique por que a expressão não muda o gênero da palavra onça.",
+        "expected": "Porque onça é substantivo epiceno; macho identifica o sexo do animal, mas o gênero gramatical de onça continua feminino.",
+        "source": "Livro de Português e ficha 18 · Atividades sobre gênero dos substantivos; ficha 18",
+        "coverageId": null,
+        "kind": "Classificação e contexto"
+      },
+      {
+        "id": "por:q18",
+        "module": 3,
+        "prompt": "Complete com a palavra correta e explique: “Ao chegar à escola, fui ______ a professora.” (cumprimentar / comprimento)",
+        "expected": "Cumprimentar, porque significa saudar alguém. Comprimento é uma medida de extensão.",
+        "source": "Livro de Português e ficha 18 · Atividades de homônimos e parônimos; ficha 18",
+        "coverageId": null,
+        "kind": "Parônimos em contexto"
+      },
+      {
+        "id": "por:q19",
+        "module": 3,
+        "prompt": "Complete e explique: “A ______ da cidade foi feita pelo guia” e “Ela agiu com ______ ao contar a notícia”.",
+        "expected": "Descrição (relato de características) e discrição (reserva, cuidado).",
+        "source": "Livro de Português e ficha 18 · Atividades de homônimos e parônimos; ficha 18",
+        "coverageId": null,
+        "kind": "Vocabulário em contexto"
+      },
+      {
+        "id": "por:q20",
+        "module": 0,
+        "prompt": "Qual é a diferença entre o que o personagem afirmou e o que podemos inferir? Dê uma inferência com uma pista.",
+        "expected": "Explícito: Caio levou um guarda-chuva. Inferência: talvez chova, pois há nuvens escuras.",
+        "source": "Livro de Português, fichas e caderno · Interpretação de textos; fichas da PD",
+        "coverageId": null,
+        "kind": "Explícito e implícito"
+      },
+      {
+        "id": "por:q21",
+        "module": 4,
+        "prompt": "Complete: O mecânico fez o ___ do carro. O músico apresentou um ___. Explique por que as palavras são homófonas.",
+        "expected": "conserto; concerto. Têm o mesmo som, mas grafias e sentidos diferentes.",
+        "source": "Port pd 3p ficha 18.pdf",
+        "coverageId": "por01",
+        "kind": "Conferência curricular · Homônimos homófonos"
+      },
+      {
+        "id": "por:q22",
+        "module": 4,
+        "prompt": "Na frase “Eu gosto deste gosto de morango”, identifique os dois sentidos de gosto.",
+        "expected": "Primeiro: verbo gostar; segundo: sabor. São homógrafos com sentidos e pronúncias diferentes.",
+        "source": "Port pd 3p ficha 18.pdf",
+        "coverageId": "por02",
+        "kind": "Conferência curricular · Homônimos homógrafos"
+      },
+      {
+        "id": "por:q23",
+        "module": 4,
+        "prompt": "Explique dois sentidos da palavra manga e diga que tipo de homônimos são.",
+        "expected": "Fruta e parte da roupa; homônimos perfeitos.",
+        "source": "Port pd 3p ficha 18.pdf",
+        "coverageId": "por03",
+        "kind": "Conferência curricular · Homônimos perfeitos"
+      },
+      {
+        "id": "por:q24",
+        "module": 4,
+        "prompt": "Escolha: “Ele fez uma ___ detalhada do lugar”. Descrição ou discrição? Justifique.",
+        "expected": "Descrição, porque é o ato de descrever. Discrição significa reserva ou prudência.",
+        "source": "Port pd 3p ficha 18.pdf",
+        "coverageId": "por04",
+        "kind": "Conferência curricular · Parônimos em contexto"
+      },
+      {
+        "id": "por:q25",
+        "module": 4,
+        "prompt": "Complete com mas ou porque: “Queria brincar, ___ estava chovendo”. Explique a relação.",
+        "expected": "mas. Expressa oposição ou contraste.",
+        "source": "Port pd 3p ficha 17.pdf",
+        "coverageId": "por05",
+        "kind": "Conferência curricular · Coesão: conectivos"
+      },
+      {
+        "id": "por:q26",
+        "module": 4,
+        "prompt": "Ordene: (A) Voltou com um guarda-chuva. (B) Viu nuvens escuras. (C) Saiu de casa.",
+        "expected": "Uma ordem lógica: C → B → A.",
+        "source": "Port pd 3p ficha 17.pdf",
+        "coverageId": "por06",
+        "kind": "Conferência curricular · Coerência e sequência do texto"
+      },
+      {
+        "id": "por:q27",
+        "module": 4,
+        "prompt": "Identifique o prefixo e seu sentido em “refazer” e “infeliz”.",
+        "expected": "re- = fazer novamente; in- = negação.",
+        "source": "Port pd 3p ficha 17.pdf",
+        "coverageId": "por07",
+        "kind": "Conferência curricular · Prefixo e mudança de sentido"
+      },
+      {
+        "id": "por:q28",
+        "module": 4,
+        "prompt": "Qual sufixo aparece em florista? Diga o que essa palavra significa.",
+        "expected": "-ista; pessoa que trabalha com flores ou as vende/cultiva.",
+        "source": "Port pd 3p ficha 17.pdf",
+        "coverageId": "por08",
+        "kind": "Conferência curricular · Sufixo e formação"
+      },
+      {
+        "id": "por:q29",
+        "module": 4,
+        "prompt": "Classifique: o estudante/a estudante; a vítima; a cobra macho.",
+        "expected": "Comum de dois; sobrecomum; epiceno.",
+        "source": "Port pd 3p ficha 18.pdf",
+        "coverageId": "por09",
+        "kind": "Conferência curricular · Classes de substantivos por gênero"
+      },
+      {
+        "id": "por:q30",
+        "module": 4,
+        "prompt": "Compare: “Vi um cachorro” e “Vi o cachorro”. O que muda com os artigos?",
+        "expected": "Um apresenta animal não identificado especificamente; o retoma/identifica um cachorro determinado.",
+        "source": "Port pd 3p ficha 17.pdf",
+        "coverageId": "por10",
+        "kind": "Conferência curricular · Artigos e interpretação de textos"
+      }
+    ],
+    "geo": [
+      {
+        "id": "geo:q1",
+        "module": 0,
+        "prompt": "Observe os motivos apresentados. Por que muitas cidades do Brasil começaram perto do litoral?",
+        "expected": "Pela colonização, comércio e navegação; portos facilitavam circulação de pessoas e mercadorias.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 70–73",
+        "coverageId": null,
+        "kind": "Causa histórica"
+      },
+      {
+        "id": "geo:q2",
+        "module": 0,
+        "prompt": "Como a mineração contribuiu para o surgimento e o crescimento de povoados no interior do Brasil?",
+        "expected": "Atraiu pessoas, comércios e serviços para áreas de extração mineral, estimulando povoados e cidades.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 70–73",
+        "coverageId": null,
+        "kind": "Relação causa-consequência"
+      },
+      {
+        "id": "geo:q3",
+        "module": 1,
+        "prompt": "Use a tabela para identificar a função urbana predominante de cada cidade fictícia e justificar.",
+        "expected": "A: portuária (porto movimentado); B: turística (visitação); C: industrial (fábricas).",
+        "source": "Livro de Geografia · Capítulo 5, páginas 71–77",
+        "coverageId": null,
+        "kind": "Leitura de tabela"
+      },
+      {
+        "id": "geo:q4",
+        "module": 1,
+        "prompt": "Explique a diferença entre uma metrópole e uma região metropolitana.",
+        "expected": "Metrópole é uma grande cidade com influência regional; região metropolitana é um conjunto de municípios integrados em torno de um centro urbano.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 71–77",
+        "coverageId": null,
+        "kind": "Conceitos relacionados"
+      },
+      {
+        "id": "geo:q5",
+        "module": 1,
+        "prompt": "Duas cidades cresceram até suas áreas construídas se encontrarem. Como se chama esse processo?",
+        "expected": "Conurbação.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 71–77",
+        "coverageId": null,
+        "kind": "Esquema urbano"
+      },
+      {
+        "id": "geo:q6",
+        "module": 2,
+        "prompt": "Leia as situações. Indique quem tem emprego formal e quem atua como autônomo. Justifique.",
+        "expected": "Rita é empregada formal (com contrato e direitos trabalhistas); Paulo é autônomo (presta serviços por conta própria).",
+        "source": "Livro de Geografia · Capítulo 6, páginas 84–87",
+        "coverageId": null,
+        "kind": "Comparação de trabalho"
+      },
+      {
+        "id": "geo:q7",
+        "module": 2,
+        "prompt": "Por que o trabalho infantil pode comprometer os direitos das crianças? Cite dois prejuízos.",
+        "expected": "Pode prejudicar frequência e aprendizagem escolar, descanso, saúde e direito de brincar.",
+        "source": "Livro de Geografia · Capítulo 6, páginas 84–87",
+        "coverageId": null,
+        "kind": "Direitos e consequências"
+      },
+      {
+        "id": "geo:q8",
+        "module": 3,
+        "prompt": "Uma fazenda fornece leite para uma indústria que fabrica queijo; um mercado vende o produto na cidade. Explique a ligação entre campo, indústria e comércio.",
+        "expected": "O campo produz a matéria-prima; a indústria transforma em queijo; o comércio distribui e vende aos consumidores.",
+        "source": "Livro de Geografia · Capítulo 6, páginas 88–91",
+        "coverageId": null,
+        "kind": "Fluxo de produção"
+      },
+      {
+        "id": "geo:q9",
+        "module": 1,
+        "prompt": "Uma cidade recebe muitos novos moradores, mas não amplia o transporte e o saneamento. Cite dois problemas urbanos que podem surgir.",
+        "expected": "Congestionamentos e falta de saneamento, além de moradia precária e problemas ambientais.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 71–77",
+        "coverageId": null,
+        "kind": "Problemas urbanos"
+      },
+      {
+        "id": "geo:q10",
+        "module": 3,
+        "prompt": "A tabela mostra mudanças de empregos num município fictício. Qual setor aumentou mais? O que isso pode indicar?",
+        "expected": "Serviços aumentaram de 100 para 170, mais 70 empregos; pode indicar crescimento de atividades como comércio, transporte e atendimento.",
+        "source": "Livro de Geografia · Capítulo 6, páginas 88–91",
+        "coverageId": null,
+        "kind": "Interpretação de dados"
+      },
+      {
+        "id": "geo:q11",
+        "module": 0,
+        "prompt": "Como a produção de café e as ferrovias favoreceram o crescimento de cidades no Sudeste?",
+        "expected": "O café movimentou a economia e atraiu trabalhadores; ferrovias ampliaram a circulação e comércio, incentivando crescimento urbano.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 70–73",
+        "coverageId": null,
+        "kind": "História das cidades"
+      },
+      {
+        "id": "geo:q12",
+        "module": 1,
+        "prompt": "Por que uma cidade com grande porto pode atrair transportadoras, armazéns e empresas?",
+        "expected": "Porque circulação e armazenamento de mercadorias geram demanda por serviços e postos de trabalho.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 71–77",
+        "coverageId": null,
+        "kind": "Relação econômica"
+      },
+      {
+        "id": "geo:q13",
+        "module": 1,
+        "prompt": "Leia as pistas e identifique se a principal função das cidades fictícias é turística, comercial ou industrial.",
+        "expected": "Cidade A: turística; B: comercial; C: industrial.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 71–77",
+        "coverageId": null,
+        "kind": "Interpretação de perfis"
+      },
+      {
+        "id": "geo:q14",
+        "module": 1,
+        "prompt": "Numa região metropolitana, moradores de uma cidade trabalham e estudam em outra todos os dias. O que esse movimento revela?",
+        "expected": "Revela integração e dependência entre municípios, com deslocamentos cotidianos e serviços compartilhados.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 71–77",
+        "coverageId": null,
+        "kind": "Mobilidade urbana"
+      },
+      {
+        "id": "geo:q15",
+        "module": 1,
+        "prompt": "Um bairro cresceu sem planejamento, sobre uma área sujeita a enchentes. Aponte um risco e uma medida que poderia ajudar.",
+        "expected": "Risco de alagamento e perda de moradias; medidas incluem planejamento urbano, drenagem e proteção de áreas de risco.",
+        "source": "Livro de Geografia · Capítulo 5, páginas 71–77",
+        "coverageId": null,
+        "kind": "Situação socioambiental"
+      },
+      {
+        "id": "geo:q16",
+        "module": 2,
+        "prompt": "Uma profissional faz bolos sob encomenda e vende pelas redes sociais, sem ser empregada de uma empresa. Qual modalidade de trabalho descreve melhor essa situação?",
+        "expected": "Trabalho por conta própria ou autônomo.",
+        "source": "Livro de Geografia · Capítulo 6, páginas 84–87",
+        "coverageId": null,
+        "kind": "Exemplo cotidiano"
+      },
+      {
+        "id": "geo:q17",
+        "module": 2,
+        "prompt": "Analise a frase: “Trabalho formal é apenas aquele realizado em escritório”. Ela está correta? Justifique.",
+        "expected": "Não. Trabalho formal depende de vínculo e condições legais, podendo ocorrer em muitos setores e locais.",
+        "source": "Livro de Geografia · Capítulo 6, páginas 84–87",
+        "coverageId": null,
+        "kind": "Análise crítica"
+      },
+      {
+        "id": "geo:q18",
+        "module": 2,
+        "prompt": "Uma campanha diz “Criança tem direito a estudar e brincar”. Relacione essa ideia ao combate ao trabalho infantil.",
+        "expected": "O trabalho infantil pode atrapalhar escola, saúde e lazer; proteger esses direitos é essencial para o desenvolvimento.",
+        "source": "Livro de Geografia · Capítulo 6, páginas 84–87",
+        "coverageId": null,
+        "kind": "Leitura de campanha"
+      },
+      {
+        "id": "geo:q19",
+        "module": 3,
+        "prompt": "Como as compras pela internet podem criar novos tipos de trabalho nas cidades? Dê dois exemplos.",
+        "expected": "Podem aumentar atividades de entregas, logística, armazenagem e suporte a clientes.",
+        "source": "Livro de Geografia · Capítulo 6, páginas 88–91",
+        "coverageId": null,
+        "kind": "Mudanças no trabalho"
+      },
+      {
+        "id": "geo:q20",
+        "module": 3,
+        "prompt": "Uma comunidade rural produz hortaliças para mercados urbanos. Que vantagens podem existir nessa relação para campo e cidade?",
+        "expected": "Produtores rurais vendem sua produção e geram renda; consumidores urbanos recebem alimentos. Transporte e comércio conectam os espaços.",
+        "source": "Livro de Geografia · Capítulo 6, páginas 88–91",
+        "coverageId": null,
+        "kind": "Fluxo e explicação"
+      },
+      {
+        "id": "geo:q21",
+        "module": 4,
+        "prompt": "Uma cidade oferece hospitais especializados e universidades para moradores de vários municípios. O que isso indica sobre sua influência na rede urbana?",
+        "expected": "Ela exerce influência sobre outras cidades e ocupa posição mais elevada na hierarquia urbana.",
+        "source": "Geo cap 5.pdf · pp. 70–77",
+        "coverageId": "geo01",
+        "kind": "Conferência curricular · Hierarquia urbana"
+      },
+      {
+        "id": "geo:q22",
+        "module": 4,
+        "prompt": "Cite três motivos de deslocamento entre duas cidades de uma região metropolitana.",
+        "expected": "Trabalho, estudo e atendimento de saúde (também compras e lazer).",
+        "source": "Geo cap 5.pdf · pp. 70–77",
+        "coverageId": "geo02",
+        "kind": "Conferência curricular · Rede urbana e deslocamentos"
+      },
+      {
+        "id": "geo:q23",
+        "module": 4,
+        "prompt": "Associe esgoto sem tratamento a uma consequência para a cidade e proponha uma solução.",
+        "expected": "Pode poluir rios e causar doenças; solução: ampliar coleta e tratamento de esgoto.",
+        "source": "Geo cap 5.pdf · pp. 70–77",
+        "coverageId": "geo03",
+        "kind": "Conferência curricular · Problemas ambientais nas cidades"
+      },
+      {
+        "id": "geo:q24",
+        "module": 4,
+        "prompt": "Quem pode cobrar melhorias no transporte e o que o poder público pode fazer?",
+        "expected": "Moradores podem participar e cobrar; o poder público pode planejar e ampliar serviços e transportes.",
+        "source": "Geo cap 5.pdf · pp. 70–77",
+        "coverageId": "geo04",
+        "kind": "Conferência curricular · Serviços públicos e participação"
+      },
+      {
+        "id": "geo:q25",
+        "module": 4,
+        "prompt": "Classifique pesca, retirada de minério de ferro e coleta de castanhas quanto ao tipo de extrativismo.",
+        "expected": "Animal; mineral; vegetal.",
+        "source": "Geo cap 6.pdf · pp. 84–91",
+        "coverageId": "geo05",
+        "kind": "Conferência curricular · Extrativismo animal, vegetal e mineral"
+      },
+      {
+        "id": "geo:q26",
+        "module": 4,
+        "prompt": "Na fabricação e venda de pão, identifique uma atividade primária, uma secundária e uma terciária.",
+        "expected": "Primária: cultivo do trigo; secundária: produção na indústria/padaria; terciária: venda e comércio.",
+        "source": "Geo cap 6.pdf · pp. 84–91",
+        "coverageId": "geo06",
+        "kind": "Conferência curricular · Setores econômicos e trabalho"
+      },
+      {
+        "id": "geo:q27",
+        "module": 4,
+        "prompt": "Por que uma fábrica precisa de energia? Cite uma fonte de eletricidade apresentada no capítulo.",
+        "expected": "Para operar máquinas e equipamentos; fontes possíveis: hidrelétrica, eólica ou solar.",
+        "source": "Geo cap 6.pdf · p. 91",
+        "coverageId": "geo07",
+        "kind": "Conferência curricular · Energia nas atividades econômicas"
+      },
+      {
+        "id": "geo:q28",
+        "module": 4,
+        "prompt": "Como uma máquina nova pode transformar o trabalho em uma fábrica? Dê benefício e desafio.",
+        "expected": "Pode aumentar produtividade, mas exigir qualificação e mudar ou reduzir algumas tarefas.",
+        "source": "Geo cap 6.pdf · pp. 84–91",
+        "coverageId": "geo08",
+        "kind": "Conferência curricular · Trabalho e transformação tecnológica"
+      },
+      {
+        "id": "geo:q29",
+        "module": 4,
+        "prompt": "Dê um exemplo de trabalho informal e cite uma proteção normalmente associada a trabalho formal.",
+        "expected": "Ex.: vendedor sem registro; proteção: férias remuneradas e outros direitos trabalhistas.",
+        "source": "Geo cap 6.pdf · pp. 84–91",
+        "coverageId": "geo09",
+        "kind": "Conferência curricular · Trabalho formal e informal"
+      },
+      {
+        "id": "geo:q30",
+        "module": 4,
+        "prompt": "Uma legenda associa verde à agropecuária e azul à indústria. Se uma área está azul, qual atividade o mapa destaca? Qual parte do mapa permitiu saber?",
+        "expected": "Indústria; a legenda permitiu interpretar a cor.",
+        "source": "Geo cap 6.pdf · pp. 84–91",
+        "coverageId": "geo10",
+        "kind": "Conferência curricular · Leitura de mapas econômicos"
+      }
+    ],
+    "cie": [
+      {
+        "id": "cie:q1",
+        "module": 0,
+        "prompt": "Duas canecas contêm água: uma a 60 °C e outra a 20 °C. Em que direção o calor é transferido quando elas trocam energia? Explique.",
+        "expected": "O calor se transfere do corpo de maior temperatura para o de menor temperatura, até tenderem ao equilíbrio térmico.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 152–155",
+        "coverageId": null,
+        "kind": "Experiência e explicação"
+      },
+      {
+        "id": "cie:q2",
+        "module": 0,
+        "prompt": "Um aluno diz: “Calor é a mesma coisa que temperatura”. Você concorda? Explique a diferença.",
+        "expected": "Não. Temperatura indica o estado térmico; calor é energia transferida entre corpos devido a uma diferença de temperatura.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 152–155",
+        "coverageId": null,
+        "kind": "Análise de afirmação"
+      },
+      {
+        "id": "cie:q3",
+        "module": 1,
+        "prompt": "Leia o relato da experiência. Por que a colher de metal fica quente na parte de fora da xícara?",
+        "expected": "Porque o metal conduz energia térmica da parte aquecida até a outra extremidade, por condução.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 154–163",
+        "coverageId": null,
+        "kind": "Experimento descrito"
+      },
+      {
+        "id": "cie:q4",
+        "module": 1,
+        "prompt": "Quais materiais são mais adequados para o cabo de uma panela quente? Explique usando a ideia de isolante térmico.",
+        "expected": "Madeira ou plástico adequado para altas temperaturas, pois dificultam a transferência de calor para a mão.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 154–163",
+        "coverageId": null,
+        "kind": "Escolha justificada"
+      },
+      {
+        "id": "cie:q5",
+        "module": 1,
+        "prompt": "A tabela registra a temperatura de uma bebida. O que ocorreu entre o início e os dez minutos seguintes?",
+        "expected": "A bebida esfriou: de 70 °C para 45 °C, uma redução de 25 °C, transferindo energia térmica para o ambiente.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 154–163",
+        "coverageId": null,
+        "kind": "Interpretação de dados"
+      },
+      {
+        "id": "cie:q6",
+        "module": 1,
+        "prompt": "Por que é preciso deixar pequenas juntas de dilatação em algumas estruturas metálicas?",
+        "expected": "Porque o metal pode se expandir quando a temperatura aumenta. O espaço ajuda a evitar deformações.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 154–163",
+        "coverageId": null,
+        "kind": "Situação cotidiana"
+      },
+      {
+        "id": "cie:q7",
+        "module": 2,
+        "prompt": "Observe o esquema de um circuito simples. Se o interruptor estiver aberto, o que acontece com a lâmpada e por quê?",
+        "expected": "A lâmpada apaga, porque o circuito está interrompido e a corrente não circula pelo caminho.",
+        "source": "Livro de Ciências · Capítulo 12, páginas 164–170",
+        "coverageId": null,
+        "kind": "Leitura de esquema"
+      },
+      {
+        "id": "cie:q8",
+        "module": 2,
+        "prompt": "Uma estudante quer trocar uma lâmpada. Cite duas atitudes seguras relacionadas à eletricidade e explique uma delas.",
+        "expected": "Desligar a energia e pedir ajuda a um adulto; evitar tocar em fios expostos ou usar aparelhos perto de água. Isso reduz riscos de choque.",
+        "source": "Livro de Ciências · Capítulo 12, páginas 164–170",
+        "coverageId": null,
+        "kind": "Segurança e justificativa"
+      },
+      {
+        "id": "cie:q9",
+        "module": 3,
+        "prompt": "Em um experimento, um ímã atrai um clipe de aço, mas não um pedaço de papel. O que essa observação mostra?",
+        "expected": "Mostra que a atração magnética depende do material; muitos materiais com ferro são atraídos, mas papel não.",
+        "source": "Livro de Ciências · Capítulo 12, páginas 171–175",
+        "coverageId": null,
+        "kind": "Experimento e conclusão"
+      },
+      {
+        "id": "cie:q10",
+        "module": 3,
+        "prompt": "Quando aproximamos dois polos norte de ímãs, o que acontece? E se aproximarmos norte e sul?",
+        "expected": "Norte com norte se repelem; norte com sul se atraem.",
+        "source": "Livro de Ciências · Capítulo 12, páginas 171–175",
+        "coverageId": null,
+        "kind": "Comparação de situações"
+      },
+      {
+        "id": "cie:q11",
+        "module": 0,
+        "prompt": "Em qual das situações há transferência de energia por calor? Justifique.",
+        "expected": "Uma mão mais fria encostando em uma caneca morna: ocorre transferência de energia do corpo mais quente para o mais frio.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 152–155",
+        "coverageId": null,
+        "kind": "Seleção e justificativa"
+      },
+      {
+        "id": "cie:q12",
+        "module": 1,
+        "prompt": "Uma aluna observou o termômetro antes e depois de colocar a água no congelador. Qual foi a mudança de estado e como a temperatura ajudou?",
+        "expected": "Ocorreu solidificação: a água líquida perdeu energia térmica e congelou. O termômetro permite acompanhar a temperatura.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 154–163",
+        "coverageId": null,
+        "kind": "Mudança de estado"
+      },
+      {
+        "id": "cie:q13",
+        "module": 1,
+        "prompt": "Por que usar uma luva de tecido para tirar uma assadeira quente do forno é mais seguro do que encostar a mão diretamente?",
+        "expected": "Porque o tecido apropriado dificulta a transferência de calor e ajuda a proteger a mão.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 154–163",
+        "coverageId": null,
+        "kind": "Material isolante"
+      },
+      {
+        "id": "cie:q14",
+        "module": 1,
+        "prompt": "Leia a afirmação: “Roupas de lã produzem calor dentro do corpo”. O que deve ser corrigido nessa frase?",
+        "expected": "Roupas de lã não produzem calor; elas reduzem a perda de energia térmica do corpo para o ambiente.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 154–163",
+        "coverageId": null,
+        "kind": "Revisão de hipótese"
+      },
+      {
+        "id": "cie:q15",
+        "module": 1,
+        "prompt": "Compare duas barras metálicas idênticas: uma foi aquecida e outra foi resfriada. Qual tende a ficar mais comprida? Explique.",
+        "expected": "A aquecida tende a dilatar e ficar ligeiramente mais comprida, pois a temperatura aumentou.",
+        "source": "Livro de Ciências · Capítulo 11, páginas 154–163",
+        "coverageId": null,
+        "kind": "Previsão científica"
+      },
+      {
+        "id": "cie:q16",
+        "module": 2,
+        "prompt": "Leia o esquema. Explique o papel da pilha e dos fios para uma lâmpada acender.",
+        "expected": "A pilha fornece energia elétrica, e os fios condutores fazem parte do caminho fechado por onde circula corrente elétrica.",
+        "source": "Livro de Ciências · Capítulo 12, páginas 164–170",
+        "coverageId": null,
+        "kind": "Leitura de esquema"
+      },
+      {
+        "id": "cie:q17",
+        "module": 2,
+        "prompt": "Por que fios elétricos geralmente têm metal no interior e revestimento isolante por fora?",
+        "expected": "O metal conduz corrente elétrica; o revestimento isolante ajuda a evitar contatos e choques.",
+        "source": "Livro de Ciências · Capítulo 12, páginas 164–170",
+        "coverageId": null,
+        "kind": "Estrutura e função"
+      },
+      {
+        "id": "cie:q18",
+        "module": 2,
+        "prompt": "Uma lâmpada não acendeu. O circuito tem pilha e fios, mas uma ligação ficou solta. Que hipótese explica o resultado?",
+        "expected": "A conexão solta interrompeu o circuito; a corrente não conseguiu circular pelo caminho fechado.",
+        "source": "Livro de Ciências · Capítulo 12, páginas 164–170",
+        "coverageId": null,
+        "kind": "Diagnóstico de experiência"
+      },
+      {
+        "id": "cie:q19",
+        "module": 3,
+        "prompt": "Uma bússola usa uma agulha magnetizada. Qual fenômeno permite que a agulha se oriente?",
+        "expected": "O magnetismo, por interação da agulha com o campo magnético terrestre.",
+        "source": "Livro de Ciências · Capítulo 12, páginas 171–175",
+        "coverageId": null,
+        "kind": "Aplicação do magnetismo"
+      },
+      {
+        "id": "cie:q20",
+        "module": 3,
+        "prompt": "Compare os testes com materiais. É correto dizer que “todo metal é atraído por ímã”? Explique.",
+        "expected": "Não. A atração depende do tipo de metal; ferro e certos aços são atraídos, mas alumínio não costuma ser.",
+        "source": "Livro de Ciências · Capítulo 12, páginas 171–175",
+        "coverageId": null,
+        "kind": "Análise de hipótese"
+      },
+      {
+        "id": "cie:q21",
+        "module": 4,
+        "prompt": "Pessoas pré-históricas queriam enxergar em uma caverna escura e aquecer alimentos. Que fonte de energia usariam e cite dois benefícios.",
+        "expected": "O fogo. Benefícios: iluminação, aquecimento, cozimento de alimentos e proteção.",
+        "source": "Ciencias cap11 e cap12.pdf · p. 163",
+        "coverageId": "cie01",
+        "kind": "Conferência curricular · Fogo e vida na Pré-História"
+      },
+      {
+        "id": "cie:q22",
+        "module": 4,
+        "prompt": "Qual é uma fonte natural de calor e uma fonte usada por pessoas? Dê exemplo de uso antigo e atual.",
+        "expected": "Sol; fogo/fogão. Antigo: fogueira para aquecer e cozinhar; atual: fogão e aquecedores.",
+        "source": "Ciencias cap11 e cap12.pdf · pp. 150–163",
+        "coverageId": "cie02",
+        "kind": "Conferência curricular · Fontes de calor antigas e atuais"
+      },
+      {
+        "id": "cie:q23",
+        "module": 4,
+        "prompt": "Ao aquecer gelo ele vira água líquida; ao resfriar água líquida ela vira gelo. Nomeie os dois processos.",
+        "expected": "Fusão e solidificação, respectivamente.",
+        "source": "Ciencias cap11 e cap12.pdf · capítulo 11",
+        "coverageId": "cie03",
+        "kind": "Conferência curricular · Mudanças de estado físico"
+      },
+      {
+        "id": "cie:q24",
+        "module": 4,
+        "prompt": "Em uma hidrelétrica, o que move a turbina e cite um possível impacto ambiental da usina.",
+        "expected": "A água em movimento. Impacto possível: alagamento de áreas e alterações dos rios e habitats.",
+        "source": "Ciencias cap11 e cap12.pdf · capítulo 12",
+        "coverageId": "cie04",
+        "kind": "Conferência curricular · Geração hidrelétrica"
+      },
+      {
+        "id": "cie:q25",
+        "module": 4,
+        "prompt": "Uma comunidade tem ventos fortes e placas no telhado. Qual fonte usa o vento e qual usa a luz do Sol?",
+        "expected": "Eólica usa vento; solar fotovoltaica usa luz solar.",
+        "source": "Ciencias cap11 e cap12.pdf · capítulo 12",
+        "coverageId": "cie05",
+        "kind": "Conferência curricular · Energia eólica e solar"
+      },
+      {
+        "id": "cie:q26",
+        "module": 4,
+        "prompt": "Uma usina queima combustível para aquecer água e mover turbinas. Que tipo de usina é e qual impacto pode causar?",
+        "expected": "Termelétrica; pode emitir poluentes e gases associados às mudanças climáticas.",
+        "source": "Ciencias cap11 e cap12.pdf · capítulo 12",
+        "coverageId": "cie06",
+        "kind": "Conferência curricular · Termelétrica e combustíveis"
+      },
+      {
+        "id": "cie:q27",
+        "module": 4,
+        "prompt": "Classifique: vento, sol, carvão mineral e petróleo como renováveis ou não renováveis.",
+        "expected": "Renováveis: vento e sol. Não renováveis: carvão mineral e petróleo.",
+        "source": "Ciencias caderno pd 3p.pdf / Prepara adicional pd 3p.pdf",
+        "coverageId": "cie07",
+        "kind": "Conferência curricular · Renovável e não renovável"
+      },
+      {
+        "id": "cie:q28",
+        "module": 4,
+        "prompt": "Por que é incorreto dizer que uma usina hidrelétrica não causa nenhum impacto ambiental?",
+        "expected": "Porque barragens podem alagar áreas, alterar o fluxo da água e afetar animais, vegetação e comunidades.",
+        "source": "Ciencias caderno pd 3p.pdf / Prepara adicional pd 3p.pdf",
+        "coverageId": "cie08",
+        "kind": "Conferência curricular · Impactos ambientais da geração elétrica"
+      },
+      {
+        "id": "cie:q29",
+        "module": 4,
+        "prompt": "Cite uma ação para economizar eletricidade e uma ação para evitar choque elétrico.",
+        "expected": "Apagar luzes sem uso; não mexer em tomadas com mãos molhadas.",
+        "source": "Ciencias cap11 e cap12.pdf · pp. 164–177",
+        "coverageId": "cie09",
+        "kind": "Conferência curricular · Economia e segurança elétrica"
+      },
+      {
+        "id": "cie:q30",
+        "module": 4,
+        "prompt": "Um circuito tem pilha e lâmpada, mas o fio foi interrompido. Por que a lâmpada não acende e o que deve ser feito?",
+        "expected": "O circuito está aberto; é preciso restabelecer a conexão elétrica segura para fechar o circuito.",
+        "source": "Ciencias cap11 e cap12.pdf · pp. 164–177",
+        "coverageId": "cie10",
+        "kind": "Conferência curricular · Pilha, circuito e materiais condutores"
+      }
+    ],
+    "his": [
+      {
+        "id": "his:q1",
+        "module": 0,
+        "prompt": "Leia as duas descrições. Qual delas apresenta maior participação política? Justifique a partir da ideia de democracia.",
+        "expected": "A situação B, porque amplia a participação dos cidadãos na escolha de representantes e na discussão de decisões.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143",
+        "coverageId": null,
+        "kind": "Comparação histórica"
+      },
+      {
+        "id": "his:q2",
+        "module": 0,
+        "prompt": "O que a Constituição brasileira de 1988 passou a simbolizar após o período da ditadura militar?",
+        "expected": "A retomada e consolidação de direitos democráticos, liberdades e garantias da cidadania.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143",
+        "coverageId": null,
+        "kind": "Leitura de linha do tempo"
+      },
+      {
+        "id": "his:q3",
+        "module": 0,
+        "prompt": "Por que votar não é a única forma de exercer a cidadania? Cite duas outras atitudes.",
+        "expected": "Cidadania inclui direitos e deveres; exemplos são participar de debates públicos e fiscalizar serviços ou respeitar direitos alheios.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143",
+        "coverageId": null,
+        "kind": "Cidadania no cotidiano"
+      },
+      {
+        "id": "his:q4",
+        "module": 1,
+        "prompt": "Uma prefeitura organiza a reforma de uma escola; vereadores discutem o orçamento; um juiz decide uma ação judicial. Relacione cada ação a um dos Três Poderes.",
+        "expected": "Prefeitura: Executivo; vereadores: Legislativo; juiz: Judiciário.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143; ficha de História da PD",
+        "coverageId": null,
+        "kind": "Associação com cenário"
+      },
+      {
+        "id": "his:q5",
+        "module": 1,
+        "prompt": "Por que separar Executivo, Legislativo e Judiciário ajuda uma democracia?",
+        "expected": "Porque distribui funções e cria controles recíprocos, evitando concentração de poder e favorecendo fiscalização.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143; ficha de História da PD",
+        "coverageId": null,
+        "kind": "Causa e consequência"
+      },
+      {
+        "id": "his:q6",
+        "module": 0,
+        "prompt": "Um jornal da época das Diretas Já mostra pessoas em manifestação pedindo eleições diretas. O que elas reivindicavam?",
+        "expected": "A volta das eleições diretas para presidente da República, durante a redemocratização.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143",
+        "coverageId": null,
+        "kind": "Interpretação de fonte histórica"
+      },
+      {
+        "id": "his:q7",
+        "module": 2,
+        "prompt": "O que é necessário corrigir na frase “Existe uma única cultura africana que chegou ao Brasil”?",
+        "expected": "A África reúne muitos povos, histórias e culturas; diversas tradições africanas influenciaram e se transformaram na cultura afro-brasileira.",
+        "source": "Livro de História · Capítulo 12, páginas 152–153 e 156–157",
+        "coverageId": null,
+        "kind": "Análise crítica"
+      },
+      {
+        "id": "his:q8",
+        "module": 2,
+        "prompt": "O jongo e o maracatu são manifestações culturais afro-brasileiras. Cite uma semelhança e explique por que não são a mesma tradição.",
+        "expected": "Ambos expressam heranças afro-brasileiras e podem envolver música, dança e vida comunitária, mas têm histórias, ritmos e características específicas.",
+        "source": "Livro de História · Capítulo 12, páginas 152–153 e 156–157",
+        "coverageId": null,
+        "kind": "Comparação cultural"
+      },
+      {
+        "id": "his:q9",
+        "module": 2,
+        "prompt": "Como uma escola pode valorizar as culturas afro-brasileiras de forma respeitosa? Dê duas propostas concretas.",
+        "expected": "Estudar a história dessas tradições com fontes confiáveis, convidar conhecedores, conhecer manifestações e combater atitudes racistas.",
+        "source": "Livro de História · Capítulo 12, páginas 152–153 e 156–157",
+        "coverageId": null,
+        "kind": "Proposta e justificativa"
+      },
+      {
+        "id": "his:q10",
+        "module": 0,
+        "prompt": "Por que os direitos políticos no Brasil não foram exercidos da mesma forma por todas as pessoas ao longo da história?",
+        "expected": "Porque diferentes períodos restringiram a participação de determinados grupos; os direitos foram conquistados e ampliados historicamente.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143",
+        "coverageId": null,
+        "kind": "Mudanças e permanências"
+      },
+      {
+        "id": "his:q11",
+        "module": 0,
+        "prompt": "Observe a linha do tempo. Relacione a ditadura militar, o movimento Diretas Já e a Constituição de 1988.",
+        "expected": "A ditadura restringiu direitos; Diretas Já mobilizou pela participação política; a Constituição de 1988 consolidou garantias democráticas.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143",
+        "coverageId": null,
+        "kind": "Relação temporal"
+      },
+      {
+        "id": "his:q12",
+        "module": 0,
+        "prompt": "Uma turma escolhe representante por votação. Explique por que também é importante ouvir quem não venceu a eleição.",
+        "expected": "Porque democracia inclui participação, respeito à diversidade de opiniões e direitos das minorias, não apenas a vitória da maioria.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143",
+        "coverageId": null,
+        "kind": "Situação de cidadania"
+      },
+      {
+        "id": "his:q13",
+        "module": 1,
+        "prompt": "Uma lei municipal está sendo discutida. Qual Poder a vota? Qual Poder é responsável por administrar sua execução?",
+        "expected": "O Legislativo municipal vota a lei; o Executivo administra sua execução.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143; ficha de História da PD",
+        "coverageId": null,
+        "kind": "Processo político"
+      },
+      {
+        "id": "his:q14",
+        "module": 1,
+        "prompt": "Leia a situação: uma pessoa acredita que um direito previsto em lei foi desrespeitado e procura a Justiça. Qual Poder analisará o conflito?",
+        "expected": "O Poder Judiciário.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143; ficha de História da PD",
+        "coverageId": null,
+        "kind": "Aplicação prática"
+      },
+      {
+        "id": "his:q15",
+        "module": 1,
+        "prompt": "Escolha a afirmação correta e explique: “Prefeito cria leis sozinho” ou “Vereadores discutem e votam leis municipais”.",
+        "expected": "Vereadores discutem e votam leis municipais. O prefeito exerce o Executivo e pode propor projetos, sancionar ou vetar leis nos limites legais.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143; ficha de História da PD",
+        "coverageId": null,
+        "kind": "Análise de afirmações"
+      },
+      {
+        "id": "his:q16",
+        "module": 2,
+        "prompt": "Leia a notícia fictícia. Qual contribuição afro-brasileira está sendo valorizada?",
+        "expected": "A apresentação e o estudo do jongo, manifestação de cultura afro-brasileira.",
+        "source": "Livro de História · Capítulo 12, páginas 152–153 e 156–157",
+        "coverageId": null,
+        "kind": "Interpretação de notícia"
+      },
+      {
+        "id": "his:q17",
+        "module": 2,
+        "prompt": "Por que não devemos reduzir a influência africana no Brasil somente à música e à comida?",
+        "expected": "Porque inclui línguas, crenças, conhecimentos, técnicas, artes, formas de resistência e participação social, entre outras áreas.",
+        "source": "Livro de História · Capítulo 12, páginas 152–153 e 156–157",
+        "coverageId": null,
+        "kind": "Interpretação de cultura"
+      },
+      {
+        "id": "his:q18",
+        "module": 2,
+        "prompt": "Um museu exibe uma imagem de um cortejo de maracatu. Que perguntas sobre a origem e a comunidade ajudariam a compreendê-lo sem estereótipos?",
+        "expected": "Ex.: Onde se desenvolveu essa manifestação? Quem a mantém viva? Que elementos históricos e culturais estão presentes?",
+        "source": "Livro de História · Capítulo 12, páginas 152–153 e 156–157",
+        "coverageId": null,
+        "kind": "Investigação de fonte"
+      },
+      {
+        "id": "his:q19",
+        "module": 2,
+        "prompt": "Compare uma roda de jongo e uma apresentação de maracatu em dois critérios: participação coletiva e forma de apresentação.",
+        "expected": "Ambas têm participação comunitária; o jongo tradicionalmente envolve roda, canto e tambores, enquanto maracatu pode envolver cortejo e percussão, conforme a tradição.",
+        "source": "Livro de História · Capítulo 12, páginas 152–153 e 156–157",
+        "coverageId": null,
+        "kind": "Comparação organizada"
+      },
+      {
+        "id": "his:q20",
+        "module": 0,
+        "prompt": "Imagine que uma regra escolar impede alguns colegas de participar de uma atividade sem motivo justo. Que princípio de cidadania está em jogo e como agir?",
+        "expected": "Igualdade de direitos e respeito à participação; dialogar, ouvir os envolvidos e buscar uma solução justa com a escola.",
+        "source": "Livro de História · Capítulo 11, páginas 138–143",
+        "coverageId": null,
+        "kind": "Direitos e atitudes"
+      },
+      {
+        "id": "his:q21",
+        "module": 3,
+        "prompt": "A palavra república aparece tanto ao estudar Roma antiga quanto o Brasil. Isso significa que todos tinham direito de votar em Roma? Explique.",
+        "expected": "Não. A participação na Antiguidade era restrita. Hoje a cidadania foi ampliada e se apoia em direitos definidos em leis e na Constituição.",
+        "source": "Hist cap11.pdf · p. 138",
+        "coverageId": "his01",
+        "kind": "Conferência curricular · República e influências antigas"
+      },
+      {
+        "id": "his:q22",
+        "module": 3,
+        "prompt": "Uma criança diz: “Quando o Brasil se tornou república, todas as pessoas passaram a votar”. Corrija a afirmação.",
+        "expected": "A República substituiu a monarquia, mas nem todos tiveram direito ao voto desde o início; a cidadania foi ampliada ao longo do tempo.",
+        "source": "Hist cap11.pdf · pp. 138–139",
+        "coverageId": "his02",
+        "kind": "Conferência curricular · Do Império à República brasileira"
+      },
+      {
+        "id": "his:q23",
+        "module": 3,
+        "prompt": "Qual a diferença entre eleger um representante e participar de um plebiscito?",
+        "expected": "Na eleição escolhemos representantes; no plebiscito votamos diretamente sobre uma questão proposta à população.",
+        "source": "Hist cap11.pdf · p. 139",
+        "coverageId": "his03",
+        "kind": "Conferência curricular · Plebiscito e participação dos cidadãos"
+      },
+      {
+        "id": "his:q24",
+        "module": 3,
+        "prompt": "Por que o movimento Diretas Já está relacionado à democracia?",
+        "expected": "Porque defendia que os cidadãos pudessem escolher diretamente o presidente por meio do voto.",
+        "source": "Hist cap11.pdf · p. 140",
+        "coverageId": "his04",
+        "kind": "Conferência curricular · Ditadura militar e movimentos por democracia"
+      },
+      {
+        "id": "his:q25",
+        "module": 3,
+        "prompt": "Cite dois direitos protegidos pela Constituição de 1988 e explique por que ela é chamada de Constituição Cidadã.",
+        "expected": "Exemplos: educação e liberdade de expressão. Recebe o nome por reconhecer e ampliar direitos e garantias da população.",
+        "source": "Hist cap11.pdf · p. 140",
+        "coverageId": "his05",
+        "kind": "Conferência curricular · Constituição Cidadã de 1988"
+      },
+      {
+        "id": "his:q26",
+        "module": 3,
+        "prompt": "Diga se o voto é obrigatório, facultativo ou não permitido para pessoas de 15, 17, 35 e 72 anos.",
+        "expected": "15: não permitido; 17: facultativo; 35: obrigatório, se alfabetizada; 72: facultativo.",
+        "source": "Hist cap11.pdf · p. 140",
+        "coverageId": "his06",
+        "kind": "Conferência curricular · Voto obrigatório e facultativo"
+      },
+      {
+        "id": "his:q27",
+        "module": 3,
+        "prompt": "Uma prefeitura quer construir uma escola, a câmara vota uma lei e um tribunal julga um conflito. Associe cada ação ao Poder correspondente.",
+        "expected": "Prefeitura: Executivo; câmara: Legislativo; tribunal: Judiciário.",
+        "source": "Hist cap11.pdf · pp. 142–143",
+        "coverageId": "his07",
+        "kind": "Conferência curricular · Três Poderes e independência"
+      },
+      {
+        "id": "his:q28",
+        "module": 3,
+        "prompt": "Quem exerce o Executivo e o Legislativo no município? E na União?",
+        "expected": "Município: prefeito e câmara de vereadores. União: presidente e Congresso Nacional (deputados federais e senadores).",
+        "source": "Hist cap11.pdf · pp. 142–143",
+        "coverageId": "his08",
+        "kind": "Conferência curricular · Poderes no município, estado e União"
+      },
+      {
+        "id": "his:q29",
+        "module": 3,
+        "prompt": "Se uma pessoa denuncia uma violação de direito e o caso chega a um tribunal, qual Poder deve julgá-lo? Justifique.",
+        "expected": "O Judiciário, porque sua função é aplicar a lei e julgar conflitos.",
+        "source": "Hist cap11.pdf · p. 143",
+        "coverageId": "his09",
+        "kind": "Conferência curricular · Função do Judiciário"
+      },
+      {
+        "id": "his:q30",
+        "module": 3,
+        "prompt": "Dê um exemplo de exercício de cidadania por uma criança, mesmo sem direito ao voto.",
+        "expected": "Participar de decisões escolares, cuidar dos espaços coletivos e reivindicar respeito aos direitos são exemplos.",
+        "source": "Hist cap11.pdf · pp. 139–140",
+        "coverageId": "his10",
+        "kind": "Conferência curricular · Cidadania como direitos e deveres"
+      },
+      {
+        "id": "his:q31",
+        "module": 4,
+        "prompt": "Por que não é correto dizer que todos os africanos trazidos ao Brasil tinham a mesma cultura?",
+        "expected": "Porque vinham de regiões, povos e comunidades diferentes, com línguas e costumes diversos.",
+        "source": "Hist cap12.pdf · p. 152",
+        "coverageId": "his11",
+        "kind": "Conferência curricular · Origem diversa dos povos africanos"
+      },
+      {
+        "id": "his:q32",
+        "module": 4,
+        "prompt": "Cite duas contribuições de povos africanos à cultura brasileira e explique por que é importante lembrar também a resistência à escravização.",
+        "expected": "Exemplos: ritmos, alimentação, religião, festas, conhecimentos técnicos. A resistência mostra a luta contra a violência e pela liberdade.",
+        "source": "Hist cap12.pdf · p. 152",
+        "coverageId": "his12",
+        "kind": "Conferência curricular · Escravização, resistência e contribuições culturais"
+      },
+      {
+        "id": "his:q33",
+        "module": 4,
+        "prompt": "Uma fotografia mostra cortejo com figurinos, coroação simbólica e tambores, em Pernambuco. A que manifestação cultural do capítulo ela pode se relacionar?",
+        "expected": "Ao maracatu, associado a cortejos, tambores e à tradição da coroação dos reis do Congo.",
+        "source": "Hist cap12.pdf · p. 153",
+        "coverageId": "his13",
+        "kind": "Conferência curricular · Maracatu e coroação dos reis do Congo"
+      },
+      {
+        "id": "his:q34",
+        "module": 4,
+        "prompt": "Uma roda de dança no Sudeste, com cantos e tambores chamados caxambu e candongueiro, representa qual tradição?",
+        "expected": "O jongo. Esta é a resposta esperada, conforme o conceito estudado.",
+        "source": "Hist cap12.pdf · p. 153",
+        "coverageId": "his14",
+        "kind": "Conferência curricular · Jongo e suas características"
+      },
+      {
+        "id": "his:q35",
+        "module": 4,
+        "prompt": "Compare jongo e maracatu indicando uma semelhança e uma diferença.",
+        "expected": "Semelhança: heranças africanas, dança e percussão. Diferença: jongo em rodas no Sudeste; maracatu em cortejos ligados a Pernambuco.",
+        "source": "Hist cap12.pdf · p. 153",
+        "coverageId": "his15",
+        "kind": "Conferência curricular · Comparação entre jongo e maracatu"
+      },
+      {
+        "id": "his:q36",
+        "module": 4,
+        "prompt": "Por que os quilombos são considerados espaços de resistência à escravização?",
+        "expected": "Porque reuniam pessoas que resistiam à escravidão e organizavam comunidades para viver com liberdade.",
+        "source": "Hist cap12.pdf · p. 156",
+        "coverageId": "his16",
+        "kind": "Conferência curricular · Formação dos quilombos"
+      },
+      {
+        "id": "his:q37",
+        "module": 4,
+        "prompt": "Por que o reconhecimento de um território quilombola é importante para seus moradores?",
+        "expected": "Porque contribui para garantir o direito à terra, a continuidade da comunidade e sua cultura e memória.",
+        "source": "Hist cap12.pdf · p. 156",
+        "coverageId": "his17",
+        "kind": "Conferência curricular · Quilombolas atuais e território"
+      },
+      {
+        "id": "his:q38",
+        "module": 4,
+        "prompt": "Por que dizer “a escravidão acabou, então não existe mais racismo” está errado?",
+        "expected": "Porque o racismo e desigualdades históricas continuaram e precisam ser enfrentados.",
+        "source": "Hist cap12.pdf · p. 157",
+        "coverageId": "his18",
+        "kind": "Conferência curricular · Racismo e desigualdade"
+      },
+      {
+        "id": "his:q39",
+        "module": 4,
+        "prompt": "Qual é o objetivo das políticas de cotas mencionadas no livro?",
+        "expected": "Ampliar oportunidades e combater desigualdades e discriminações históricas.",
+        "source": "Hist cap12.pdf · p. 157",
+        "coverageId": "his19",
+        "kind": "Conferência curricular · Políticas de cotas e igualdade de oportunidades"
+      },
+      {
+        "id": "his:q40",
+        "module": 4,
+        "prompt": "Escreva duas atitudes que demonstram valorização da cultura afro-brasileira além de participar de uma comemoração.",
+        "expected": "Estudar sua história e contribuições, respeitar práticas culturais e combater atitudes racistas.",
+        "source": "Hist cap12.pdf · p. 157",
+        "coverageId": "his20",
+        "kind": "Conferência curricular · Consciência Negra e valorização cultural"
+      }
+    ],
+    "mat": [
+      {
+        "id": "mat:q1",
+        "module": 0,
+        "prompt": "Uma receita usa sete de dez porções iguais de uma medida de farinha. Escreva essa fração em números e por extenso.",
+        "expected": "7/10, sete décimos.",
+        "source": "Livro de Matemática · Páginas 235–236 e 252–253",
+        "coverageId": null,
+        "kind": "Representação visual"
+      },
+      {
+        "id": "mat:q2",
+        "module": 0,
+        "prompt": "Duas equipes pintaram partes de faixas de mesmo tamanho. Qual pintou a maior parte? Compare usando >, < ou = e explique.",
+        "expected": "3/4 > 2/3, pois 9/12 > 8/12.",
+        "source": "Livro de Matemática · Páginas 235–236 e 252–253",
+        "coverageId": null,
+        "kind": "Comparação de frações"
+      },
+      {
+        "id": "mat:q3",
+        "module": 1,
+        "prompt": "Em uma feira, Júlia comprou 1/2 kg de uvas e 1/4 kg de morangos. Quantos quilos de frutas comprou ao todo? Mostre o cálculo.",
+        "expected": "1/2 + 1/4 = 2/4 + 1/4 = 3/4 kg.",
+        "source": "Livro de Matemática · Adição: 261–263; subtração: 267–268; multiplicação: 271–272; divisão: 276–277",
+        "coverageId": null,
+        "kind": "Situação-problema"
+      },
+      {
+        "id": "mat:q4",
+        "module": 1,
+        "prompt": "Uma fita tinha 7/8 m. Foram usados 3/8 m para decorar um presente. Quanto restou? Justifique.",
+        "expected": "7/8 − 3/8 = 4/8 = 1/2 m.",
+        "source": "Livro de Matemática · Adição: 261–263; subtração: 267–268; multiplicação: 271–272; divisão: 276–277",
+        "coverageId": null,
+        "kind": "Subtração com modelo"
+      },
+      {
+        "id": "mat:q5",
+        "module": 1,
+        "prompt": "Em uma horta, 2/3 de um canteiro têm flores. Desses espaços, 3/4 receberam adubo. Qual fração de todo o canteiro recebeu adubo?",
+        "expected": "2/3 × 3/4 = 6/12 = 1/2.",
+        "source": "Livro de Matemática · Adição: 261–263; subtração: 267–268; multiplicação: 271–272; divisão: 276–277",
+        "coverageId": null,
+        "kind": "Fração de uma fração"
+      },
+      {
+        "id": "mat:q6",
+        "module": 1,
+        "prompt": "Há 3/4 de litro de suco. Cada copo comporta 1/4 de litro. Quantos copos completos podem ser servidos? Mostre a divisão.",
+        "expected": "3/4 ÷ 1/4 = 3 copos.",
+        "source": "Livro de Matemática · Adição: 261–263; subtração: 267–268; multiplicação: 271–272; divisão: 276–277",
+        "coverageId": null,
+        "kind": "Divisão de frações"
+      },
+      {
+        "id": "mat:q7",
+        "module": 2,
+        "prompt": "No quadro de valores, como escrever 36 centésimos na forma decimal e na forma fracionária?",
+        "expected": "36/100 = 0,36.",
+        "source": "Livro de Matemática · Páginas 291–300",
+        "coverageId": null,
+        "kind": "Valor posicional"
+      },
+      {
+        "id": "mat:q8",
+        "module": 2,
+        "prompt": "A loja anunciou um lápis de R$ 0,75. Escreva esse valor em centésimos de real e por extenso.",
+        "expected": "75/100 de real, setenta e cinco centavos (setenta e cinco centésimos de real).",
+        "source": "Livro de Matemática · Páginas 291–300",
+        "coverageId": null,
+        "kind": "Números decimais"
+      },
+      {
+        "id": "mat:q9",
+        "module": 3,
+        "prompt": "A papelaria vende um caderno por R$ 8,45 e uma caneta por R$ 2,70. Quanto custam juntos? Monte a conta alinhando as vírgulas.",
+        "expected": "8,45 + 2,70 = R$ 11,15.",
+        "source": "Livro de Matemática · Adição: páginas 306–308; subtração: página 310",
+        "coverageId": null,
+        "kind": "Tabela e adição"
+      },
+      {
+        "id": "mat:q10",
+        "module": 3,
+        "prompt": "Você pagou R$ 20,00 por um item de R$ 13,65. Calcule o troco e mostre a subtração.",
+        "expected": "20,00 − 13,65 = R$ 6,35.",
+        "source": "Livro de Matemática · Adição: páginas 306–308; subtração: página 310",
+        "coverageId": null,
+        "kind": "Problema com dinheiro"
+      },
+      {
+        "id": "mat:q11",
+        "module": 0,
+        "prompt": "Observe as barras da mesma largura. Qual fração foi pintada em cada uma? Qual é maior?",
+        "expected": "A: 4/6; B: 3/6. A é maior, pois 4/6 > 3/6.",
+        "source": "Livro de Matemática · Páginas 235–236 e 252–253",
+        "coverageId": null,
+        "kind": "Leitura de figuras"
+      },
+      {
+        "id": "mat:q12",
+        "module": 0,
+        "prompt": "Em uma corrida, Ana percorreu 5/6 do trajeto e Beto 3/4. Quem avançou mais? Demonstre com frações equivalentes.",
+        "expected": "Ana: 5/6 = 10/12; Beto: 3/4 = 9/12. Ana avançou mais.",
+        "source": "Livro de Matemática · Páginas 235–236 e 252–253",
+        "coverageId": null,
+        "kind": "Comparação com justificativa"
+      },
+      {
+        "id": "mat:q13",
+        "module": 1,
+        "prompt": "Na biblioteca, 5/12 dos livros emprestados eram aventuras e 1/3 eram quadrinhos. Qual fração corresponde aos dois grupos juntos?",
+        "expected": "5/12 + 1/3 = 5/12 + 4/12 = 9/12 = 3/4.",
+        "source": "Livro de Matemática · Adição: 261–263; subtração: 267–268; multiplicação: 271–272; divisão: 276–277",
+        "coverageId": null,
+        "kind": "Tabela e adição"
+      },
+      {
+        "id": "mat:q14",
+        "module": 1,
+        "prompt": "Um aquário tinha 9/10 de sua capacidade com água. Foram retirados 2/5 da capacidade total. Que fração ficou?",
+        "expected": "9/10 − 2/5 = 9/10 − 4/10 = 5/10 = 1/2.",
+        "source": "Livro de Matemática · Adição: 261–263; subtração: 267–268; multiplicação: 271–272; divisão: 276–277",
+        "coverageId": null,
+        "kind": "Subtração de frações"
+      },
+      {
+        "id": "mat:q15",
+        "module": 1,
+        "prompt": "Uma caixa tem 4/7 de suas divisórias ocupadas. Em 7/8 dessa parte há materiais azuis. Que fração da caixa corresponde aos materiais azuis?",
+        "expected": "4/7 × 7/8 = 28/56 = 1/2.",
+        "source": "Livro de Matemática · Adição: 261–263; subtração: 267–268; multiplicação: 271–272; divisão: 276–277",
+        "coverageId": null,
+        "kind": "Multiplicação de frações"
+      },
+      {
+        "id": "mat:q16",
+        "module": 1,
+        "prompt": "Você tem 5/6 m de fita e precisa de pedaços de 1/3 m. Quantos pedaços equivalentes a 1/3 m cabem nessa quantidade? Mostre a conta.",
+        "expected": "5/6 ÷ 1/3 = 5/6 × 3 = 15/6 = 2 1/2. Cabem dois pedaços completos; sobra meia unidade do pedaço.",
+        "source": "Livro de Matemática · Adição: 261–263; subtração: 267–268; multiplicação: 271–272; divisão: 276–277",
+        "coverageId": null,
+        "kind": "Divisão e interpretação"
+      },
+      {
+        "id": "mat:q17",
+        "module": 1,
+        "prompt": "Um bolo foi cortado em quartos. Há 9/4 bolos em pedaços. Quantos bolos inteiros e quantos quartos sobrando essa quantidade representa?",
+        "expected": "9/4 = 2 1/4 bolos.",
+        "source": "Livro de Matemática · Adição: 261–263; subtração: 267–268; multiplicação: 271–272; divisão: 276–277",
+        "coverageId": null,
+        "kind": "Número misto"
+      },
+      {
+        "id": "mat:q18",
+        "module": 2,
+        "prompt": "Uma medida é 0,305 m. Escreva-a como fração decimal e identifique décimos, centésimos e milésimos.",
+        "expected": "305/1000; três décimos, zero centésimos e cinco milésimos.",
+        "source": "Livro de Matemática · Páginas 291–300",
+        "coverageId": null,
+        "kind": "Valor posicional"
+      },
+      {
+        "id": "mat:q19",
+        "module": 3,
+        "prompt": "No caixa da cantina, as compras foram R$ 7,80, R$ 2,35 e R$ 0,60. Qual foi o total?",
+        "expected": "7,80 + 2,35 + 0,60 = R$ 10,75.",
+        "source": "Livro de Matemática · Adição: páginas 306–308; subtração: página 310",
+        "coverageId": null,
+        "kind": "Interpretação de cupom"
+      },
+      {
+        "id": "mat:q20",
+        "module": 3,
+        "prompt": "A tabela mostra o saldo antes e depois de uma compra. Quanto dinheiro foi gasto?",
+        "expected": "R$ 15,20 − R$ 8,75 = R$ 6,45.",
+        "source": "Livro de Matemática · Adição: páginas 306–308; subtração: página 310",
+        "coverageId": null,
+        "kind": "Tabela e subtração"
+      },
+      {
+        "id": "mat:q21",
+        "module": 4,
+        "prompt": "Leia por extenso as frações 3/8, 7/10 e 12/100.",
+        "expected": "Três oitavos; sete décimos; doze centésimos.",
+        "source": "Mat livro pd 3p.pdf · pp. 235–236",
+        "coverageId": "mat01",
+        "kind": "Conferência curricular · Leitura de frações usuais"
+      },
+      {
+        "id": "mat:q22",
+        "module": 4,
+        "prompt": "Uma caixa tem 24 lápis, dos quais 6 são azuis. Qual fração do total é azul? Simplifique.",
+        "expected": "6/24 = 1/4. Esta é a resposta esperada, conforme o conceito estudado.",
+        "source": "Mat livro pd 3p.pdf · pp. 235–236",
+        "coverageId": "mat02",
+        "kind": "Conferência curricular · Frações de grupo de elementos"
+      },
+      {
+        "id": "mat:q23",
+        "module": 4,
+        "prompt": "Qual fração é maior, 7/12 ou 5/12? Por quê?",
+        "expected": "7/12, porque são doze partes iguais em ambos os casos e sete partes são mais que cinco.",
+        "source": "Mat livro pd 3p.pdf · pp. 252–253",
+        "coverageId": "mat03",
+        "kind": "Conferência curricular · Comparação com mesmo denominador"
+      },
+      {
+        "id": "mat:q24",
+        "module": 4,
+        "prompt": "Compare 2/3 e 3/4 usando frações equivalentes com denominador 12.",
+        "expected": "2/3 = 8/12; 3/4 = 9/12; 3/4 é maior.",
+        "source": "Mat livro pd 3p.pdf · pp. 252–253",
+        "coverageId": "mat04",
+        "kind": "Conferência curricular · Comparação por equivalência"
+      },
+      {
+        "id": "mat:q25",
+        "module": 4,
+        "prompt": "Calcule 4/9 + 2/9 e explique o que permanece igual.",
+        "expected": "6/9 ou 2/3. O denominador 9 permanece porque as partes têm o mesmo tamanho.",
+        "source": "Mat livro pd 3p.pdf · pp. 261–263",
+        "coverageId": "mat05",
+        "kind": "Conferência curricular · Adição com denominadores iguais"
+      },
+      {
+        "id": "mat:q26",
+        "module": 4,
+        "prompt": "Resolva 2/3 + 1/6, mostrando a transformação de uma fração.",
+        "expected": "4/6 + 1/6 = 5/6.",
+        "source": "Mat livro pd 3p.pdf · pp. 261–263",
+        "coverageId": "mat06",
+        "kind": "Conferência curricular · Adição com denominadores diferentes"
+      },
+      {
+        "id": "mat:q27",
+        "module": 4,
+        "prompt": "Calcule 9/12 − 5/12 e simplifique. Mostre como chegou à resposta e explique o raciocínio.",
+        "expected": "4/12 = 1/3. Esta é a resposta esperada, conforme o conceito estudado.",
+        "source": "Mat livro pd 3p.pdf · pp. 267–268",
+        "coverageId": "mat07",
+        "kind": "Conferência curricular · Subtração com denominadores iguais"
+      },
+      {
+        "id": "mat:q28",
+        "module": 4,
+        "prompt": "Uma jarra tinha 5/6 de litro e foram usados 1/3 de litro. Quanto sobrou?",
+        "expected": "5/6 − 2/6 = 3/6 = 1/2 litro.",
+        "source": "Mat livro pd 3p.pdf · pp. 267–268",
+        "coverageId": "mat08",
+        "kind": "Conferência curricular · Subtração com denominadores diferentes"
+      },
+      {
+        "id": "mat:q29",
+        "module": 4,
+        "prompt": "Qual é o resultado de 3/4 × 2/5? Simplifique.",
+        "expected": "6/20 = 3/10. Esta é a resposta esperada, conforme o conceito estudado.",
+        "source": "Mat livro pd 3p.pdf · pp. 271–272",
+        "coverageId": "mat09",
+        "kind": "Conferência curricular · Multiplicação de frações"
+      },
+      {
+        "id": "mat:q30",
+        "module": 4,
+        "prompt": "Calcule 3/5 ÷ 2/3 e mostre o inverso usado.",
+        "expected": "3/5 × 3/2 = 9/10.",
+        "source": "Mat livro pd 3p.pdf · pp. 276–277",
+        "coverageId": "mat10",
+        "kind": "Conferência curricular · Divisão de frações"
+      },
+      {
+        "id": "mat:q31",
+        "module": 5,
+        "prompt": "Escreva 47/100 na forma decimal e diga quantos centésimos representa.",
+        "expected": "0,47, quarenta e sete centésimos.",
+        "source": "Mat livro pd 3p.pdf · pp. 291–292",
+        "coverageId": "mat11",
+        "kind": "Conferência curricular · Frações decimais"
+      },
+      {
+        "id": "mat:q32",
+        "module": 5,
+        "prompt": "No número 4,072, qual algarismo ocupa a casa dos centésimos? E dos milésimos?",
+        "expected": "Centésimos: 7; milésimos: 2.",
+        "source": "Mat livro pd 3p.pdf · pp. 293–296",
+        "coverageId": "mat12",
+        "kind": "Conferência curricular · Décimos, centésimos e milésimos"
+      },
+      {
+        "id": "mat:q33",
+        "module": 5,
+        "prompt": "Decomponha 3,406 em unidades, décimos, centésimos e milésimos.",
+        "expected": "3 unidades, 4 décimos, 0 centésimos e 6 milésimos.",
+        "source": "Mat livro pd 3p.pdf · pp. 293–296",
+        "coverageId": "mat13",
+        "kind": "Conferência curricular · Quadro de valor posicional"
+      },
+      {
+        "id": "mat:q34",
+        "module": 5,
+        "prompt": "Em uma malha de 100 quadradinhos, 9 estão coloridos. Escreva a fração decimal e o número decimal.",
+        "expected": "9/100 = 0,09. Esta é a resposta esperada, conforme o conceito estudado.",
+        "source": "Mat livro pd 3p.pdf · pp. 293–296",
+        "coverageId": "mat14",
+        "kind": "Conferência curricular · Representação decimal em malha"
+      },
+      {
+        "id": "mat:q35",
+        "module": 5,
+        "prompt": "Converta 7/1000 para número decimal.",
+        "expected": "0,007. Esta é a resposta esperada, conforme o conceito estudado.",
+        "source": "Mat livro pd 3p.pdf · pp. 298–300",
+        "coverageId": "mat15",
+        "kind": "Conferência curricular · Transformar fração decimal em decimal"
+      },
+      {
+        "id": "mat:q36",
+        "module": 5,
+        "prompt": "Escreva 2,045 como fração decimal e depois leia o número.",
+        "expected": "2045/1000; dois inteiros e quarenta e cinco milésimos.",
+        "source": "Mat livro pd 3p.pdf · pp. 298–300",
+        "coverageId": "mat16",
+        "kind": "Conferência curricular · Transformar decimal em fração decimal"
+      },
+      {
+        "id": "mat:q37",
+        "module": 5,
+        "prompt": "0,70 é maior, menor ou igual a 0,7? Compare também 0,07 com 0,7.",
+        "expected": "0,70 = 0,7; 0,07 < 0,7.",
+        "source": "Mat livro pd 3p.pdf · pp. 298–300",
+        "coverageId": "mat17",
+        "kind": "Conferência curricular · Números decimais equivalentes"
+      },
+      {
+        "id": "mat:q38",
+        "module": 5,
+        "prompt": "Arme e calcule 18,6 + 2,75 + 0,08. Mostre como chegou à resposta e explique o raciocínio.",
+        "expected": "21,43. Esta é a resposta esperada, conforme o conceito estudado.",
+        "source": "Mat livro pd 3p.pdf · pp. 306–308",
+        "coverageId": "mat18",
+        "kind": "Conferência curricular · Adição decimal armada"
+      },
+      {
+        "id": "mat:q39",
+        "module": 5,
+        "prompt": "Arme e calcule 12 − 7,85. Mostre como chegou à resposta e explique o raciocínio.",
+        "expected": "4,15. Esta é a resposta esperada, conforme o conceito estudado.",
+        "source": "Mat livro pd 3p.pdf · p. 310",
+        "coverageId": "mat19",
+        "kind": "Conferência curricular · Subtração decimal armada"
+      },
+      {
+        "id": "mat:q40",
+        "module": 5,
+        "prompt": "Helena comprou itens de R$ 8,75 e R$ 4,60. Pagou com R$ 20,00. Qual é o troco? Mostre duas operações.",
+        "expected": "Total 8,75 + 4,60 = 13,35; troco 20,00 − 13,35 = R$ 6,65.",
+        "source": "Mat livro pd 3p.pdf · pp. 306–310",
+        "coverageId": "mat20",
+        "kind": "Conferência curricular · Problema com dinheiro e troco"
+      }
+    ]
+  },
+  "synonyms": {
+    "aquecer": [
+      "esquentar",
+      "esquentavam",
+      "esquentava",
+      "calor",
+      "quentinho",
+      "aquecimento",
+      "frio"
+    ],
+    "iluminar": [
+      "luz",
+      "clarear",
+      "enxergar",
+      "iluminacao",
+      "iluminavam"
+    ],
+    "cozinhar": [
+      "fazer comida",
+      "preparar alimentos",
+      "assar",
+      "cozimento",
+      "alimentos cozidos",
+      "comida"
+    ],
+    "homofonos": [
+      "mesmo som",
+      "sons iguais",
+      "mesma pronuncia",
+      "som igual",
+      "pronuncia igual"
+    ],
+    "homografos": [
+      "mesma grafia",
+      "escritas iguais",
+      "grafia igual"
+    ],
+    "quilombos": [
+      "comunidades de resistencia",
+      "refugio",
+      "fuga da escravidao",
+      "resistencia negra"
+    ],
+    "direitos": [
+      "garantias",
+      "protecoes",
+      "liberdades"
+    ],
+    "renovaveis": [
+      "renovavel",
+      "se renovam",
+      "renova",
+      "se reconstituem"
+    ],
+    "nao renovaveis": [
+      "nao renovavel",
+      "se esgotam",
+      "finitas"
+    ],
+    "fracao": [
+      "fracao",
+      "partes iguais"
+    ],
+    "agua": [
+      "hidrica",
+      "hidreletrica"
+    ],
+    "vento": [
+      "eolica",
+      "ventos"
+    ],
+    "sol": [
+      "solar",
+      "luz solar"
+    ],
+    "governo": [
+      "poder publico",
+      "estado"
+    ],
+    "obrigatorio": [
+      "precisa votar",
+      "deve votar",
+      "tem que votar"
+    ],
+    "facultativo": [
+      "pode escolher",
+      "opcional",
+      "nao e obrigado"
+    ],
+    "present perfect": [
+      "have",
+      "has"
+    ],
+    "made of": [
+      "feito de",
+      "feita de",
+      "material"
+    ]
+  }
+}
